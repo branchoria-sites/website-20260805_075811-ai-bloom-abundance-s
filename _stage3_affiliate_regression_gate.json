@@ -1,0 +1,2688 @@
+{
+  "generated_at": "2026-08-05T05:28:16",
+  "passed": true,
+  "baseline": {
+    "article_pages": 222,
+    "amazon_specific_pages": 171,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 0,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "AI_Bloom_Abun_98d3a6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc_ai_platform_s_d22d18": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc_global_ai_une_4e84d4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc_scarce_assets_3f042b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa_ai_planning_p_31fe0b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa_construction_4cabc6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa_development_r_40ee3c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_tutoring_r_e44cc1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_tutoring_r_e44cc1_ai_coaching_h_426998": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_tutoring_r_e44cc1_ai_illusion_o_7db1eb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_tutoring_r_e44cc1_effective_ai_8e3fc5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_tutoring_r_e44cc1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_verificati_7be513": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_verificati_7be513_ai_reviewers_da5afd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_verificati_7be513_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_verificati_7be513_jagged_fronti_9c0fb9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_verificati_7be513_legal_ai_liab_5f8b30": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_ai_mammograph_c19414": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_ai_mammograph_c19414_ai_mammograph_1fc0e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_ai_mammograph_c19414_dcis_overdiag_c2f99f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_ai_mammograph_c19414_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_ai_mammograph_c19414_interval_canc_9adf71": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_alphafold_dru_7f051a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_alphafold_dru_7f051a_alphafold_con_418f00": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_alphafold_dru_7f051a_alphafold_exp_535d7c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_alphafold_dru_7f051a_alphafold_exp_cc4145": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_alphafold_dru_7f051a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_autonomous_ey_52d243": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_autonomous_ey_52d243_autonomous_ey_a0564b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_autonomous_ey_52d243_eye_screening_90ce1f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_autonomous_ey_52d243_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_autonomous_ey_52d243_same_visit_ey_dd27fa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_rentosertib_a_c3ad2c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_rentosertib_a_c3ad2c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_rentosertib_a_c3ad2c_limits_of_ren_56c04d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_rentosertib_a_c3ad2c_rentosertib_p_03d7d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_rentosertib_a_c3ad2c_rentosertib_t_016cfd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b_ai_asset_owne_54bc2f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b_ai_energy_cap_9889e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b_ai_housing_sc_39267c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_automation_la_71fa1a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_automation_la_71fa1a_ai_task_incom_3f67bc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_automation_la_71fa1a_ai_worker_exp_74f5e4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_automation_la_71fa1a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_automation_la_71fa1a_worker_ai_own_5307e2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_cloud_ai_part_d3387a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_cloud_ai_part_d3387a_amazon_anthro_19f39f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_cloud_ai_part_d3387a_frontier_comp_c6e35a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_cloud_ai_part_d3387a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_cloud_ai_part_d3387a_microsoft_ope_657d40": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_income_securi_866926": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_income_securi_866926_basic_income_e0e7e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_income_securi_866926_basic_service_ed3e18": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_income_securi_866926_four_day_work_c90efc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_income_securi_866926_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_active_learni_df913b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_active_learni_df913b_active_learni_d18e80": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_active_learni_df913b_closed_loop_a_cb6f25": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_active_learni_df913b_exploration_v_fd6947": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_active_learni_df913b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_a_lab_autonom_e8b7aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_a_lab_autonom_e8b7aa_alab_17_day_r_d63460": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_a_lab_autonom_e8b7aa_alab_human_sc_287d45": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_a_lab_autonom_e8b7aa_alab_learning_da2275": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_a_lab_autonom_e8b7aa_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_closed_loop_a_9e9475": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_closed_loop_a_9e9475_closed_loop_e_f86db2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_closed_loop_a_9e9475_feedback_chan_52a5ea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_closed_loop_a_9e9475_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_closed_loop_a_9e9475_randomised_fe_cf2a99": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_self_driving_8cb29a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_self_driving_8cb29a_cloud_lab_rem_d90c28": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_self_driving_8cb29a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_self_driving_8cb29a_lab_data_ip_c_481d41": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_self_driving_8cb29a_open_lab_inte_dfdae4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_accessible_ai_34f623": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_accessible_ai_34f623_ai_dyslexia_r_f9bbb6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_accessible_ai_34f623_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_accessible_ai_34f623_low_resource_f3a405": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_accessible_ai_34f623_multimodal_ac_2a72eb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_socratic_ai_t_ef430b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_socratic_ai_t_ef430b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_socratic_ai_t_ef430b_progressive_h_cc13ab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_socratic_ai_t_ef430b_scaffolding_c_7be2a7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_socratic_ai_t_ef430b_socratic_prog_e86693": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_trusted_publi_a07b34": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_trusted_publi_a07b34_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_trusted_publi_a07b34_library_ai_tu_b2498d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_trusted_publi_a07b34_trusted_ai_tu_28a639": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_trusted_publi_a07b34_two_tier_ai_t_fd2493": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_tutor_vs_chat_fa73cd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_tutor_vs_chat_fa73cd_adaptive_misc_20d83a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_tutor_vs_chat_fa73cd_harvard_ai_tu_f58bfe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_tutor_vs_chat_fa73cd_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_tutor_vs_chat_fa73cd_judging_ai_tu_7d5ffd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_bias_outco_fb9fb0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_bias_outco_fb9fb0_ai_hiring_bia_ed2db6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_bias_outco_fb9fb0_gender_shades_0e56c0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_bias_outco_fb9fb0_healthcare_al_29d1da": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_bias_outco_fb9fb0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_persuasion_825096": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_persuasion_825096_ai_persuasion_310d94": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_persuasion_825096_eu_ai_manipul_e1dc0e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_persuasion_825096_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_persuasion_825096_personalised_bda896": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_principles_da3181": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_principles_da3181_ai_constituti_126a92": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_principles_da3181_global_ai_eth_6ef396": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_principles_da3181_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_principles_da3181_medical_ai_tr_e4af82": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_human_feedbac_319f2e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_human_feedbac_319f2e_constitutiona_4a5a8a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_human_feedbac_319f2e_human_prefere_bd53c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_human_feedbac_319f2e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_human_feedbac_319f2e_reward_hackin_922a3b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_global_coo_296d09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_global_coo_296d09_ai_global_coo_5ae0dc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_global_coo_296d09_distributed_a_cfd1cc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_global_coo_296d09_frontier_ai_c_6a7f45": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_global_coo_296d09_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_infrastruc_d01102": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_infrastruc_d01102_ai_digital_tw_dd3875": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_infrastruc_d01102_ai_flood_fore_1aa125": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_infrastruc_d01102_ai_grid_risk_752197": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_infrastruc_d01102_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_pandemic_d_9e1180": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_pandemic_d_9e1180_ai_biosecurit_1383fe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_pandemic_d_9e1180_ai_outbreak_s_05120d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_pandemic_d_9e1180_covid_ai_rese_eb8385": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_pandemic_d_9e1180_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_space_sett_f56aaf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_space_sett_f56aaf_ai_space_habi_30db1c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_space_sett_f56aaf_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_space_sett_f56aaf_lunar_autonom_c84693": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_space_sett_f56aaf_lunar_resourc_fe7a31": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_hidden_gri_ee0130": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_hidden_gri_ee0130_dynamic_line_a6386c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_hidden_gri_ee0130_forecasting_r_8bafaa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_hidden_gri_ee0130_hidden_capaci_91d3dd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_hidden_gri_ee0130_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_local_grid_6d4932": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_local_grid_6d4932_ai_grid_conne_f184a5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_local_grid_6d4932_ai_grid_upgra_e52d90": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_local_grid_6d4932_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_local_grid_6d4932_northern_virg_a1df9b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_materials_c8fe7c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_materials_c8fe7c_autonomous_la_8f6b80": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_materials_c8fe7c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_materials_c8fe7c_materials_sca_371350": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_materials_c8fe7c_predicted_mat_e4b83a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_flexible_data_7d5d8d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_flexible_data_7d5d8d_ai_workload_f_00a14a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_flexible_data_7d5d8d_data_centre_g_8229aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_flexible_data_7d5d8d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_flexible_data_7d5d8d_phoenix_gpu_d_a00f0e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_autonomous_mi_f19d4e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_autonomous_mi_f19d4e_early_haul_tr_62cc88": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_autonomous_mi_f19d4e_human_autonom_4af952": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_autonomous_mi_f19d4e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_autonomous_mi_f19d4e_iso_17757_min_e645a7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_construction_e8d88a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_construction_e8d88a_construction_fbe390": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_construction_e8d88a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_construction_e8d88a_robots_in_uns_8450a1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_construction_e8d88a_safer_roof_dr_e253cf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_farm_robots_w_8a51f4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_farm_robots_w_8a51f4_harsh_fields_53587c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_farm_robots_w_8a51f4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_farm_robots_w_8a51f4_precision_spr_359e97": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_farm_robots_w_8a51f4_robots_hottes_ccedf6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_sellafield_cl_115caf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_sellafield_cl_115caf_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_sellafield_cl_115caf_sellafield_hu_cd9fbd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_sellafield_cl_115caf_sellafield_re_81fa95": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_sellafield_cl_115caf_sellafield_ro_e3a77e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_ai_research_t_2c968f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_ai_research_t_2c968f_ai_coding_acc_93c2c7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_ai_research_t_2c968f_ai_research_a_0dc91c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_ai_research_t_2c968f_automated_ai_18afaf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_ai_research_t_2c968f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_explosion_evi_34d945": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_explosion_evi_34d945_ai_agents_sel_aa349b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_explosion_evi_34d945_ai_benchmark_0ce3e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_explosion_evi_34d945_ai_scaling_li_c20deb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_explosion_evi_34d945_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_superintellig_2863e8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_superintellig_2863e8_ai_access_pow_2df233": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_superintellig_2863e8_global_ai_coo_ac825d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_superintellig_2863e8_human_ai_over_10909b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_superintellig_2863e8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_superintellig_993cd1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_superintellig_993cd1_ai_safety_eva_e39159": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_superintellig_993cd1_claude_alignm_060a96": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_superintellig_993cd1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_superintellig_993cd1_reward_hackin_a4c466": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "current": {
+    "article_pages": 222,
+    "amazon_specific_pages": 171,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 0,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "AI_Bloom_Abun_98d3a6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc_ai_platform_s_d22d18": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc_global_ai_une_4e84d4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc_scarce_assets_3f042b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa_ai_planning_p_31fe0b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa_construction_4cabc6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa_development_r_40ee3c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_tutoring_r_e44cc1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_tutoring_r_e44cc1_ai_coaching_h_426998": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_tutoring_r_e44cc1_ai_illusion_o_7db1eb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_tutoring_r_e44cc1_effective_ai_8e3fc5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_tutoring_r_e44cc1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_verificati_7be513": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_verificati_7be513_ai_reviewers_da5afd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_verificati_7be513_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_verificati_7be513_jagged_fronti_9c0fb9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_verificati_7be513_legal_ai_liab_5f8b30": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_ai_mammograph_c19414": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_ai_mammograph_c19414_ai_mammograph_1fc0e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_ai_mammograph_c19414_dcis_overdiag_c2f99f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_ai_mammograph_c19414_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_ai_mammograph_c19414_interval_canc_9adf71": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_alphafold_dru_7f051a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_alphafold_dru_7f051a_alphafold_con_418f00": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_alphafold_dru_7f051a_alphafold_exp_535d7c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_alphafold_dru_7f051a_alphafold_exp_cc4145": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_alphafold_dru_7f051a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_autonomous_ey_52d243": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_autonomous_ey_52d243_autonomous_ey_a0564b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_autonomous_ey_52d243_eye_screening_90ce1f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_autonomous_ey_52d243_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_autonomous_ey_52d243_same_visit_ey_dd27fa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_rentosertib_a_c3ad2c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_rentosertib_a_c3ad2c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_rentosertib_a_c3ad2c_limits_of_ren_56c04d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_rentosertib_a_c3ad2c_rentosertib_p_03d7d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_rentosertib_a_c3ad2c_rentosertib_t_016cfd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b_ai_asset_owne_54bc2f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b_ai_energy_cap_9889e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b_ai_housing_sc_39267c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_automation_la_71fa1a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_automation_la_71fa1a_ai_task_incom_3f67bc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_automation_la_71fa1a_ai_worker_exp_74f5e4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_automation_la_71fa1a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_automation_la_71fa1a_worker_ai_own_5307e2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_cloud_ai_part_d3387a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_cloud_ai_part_d3387a_amazon_anthro_19f39f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_cloud_ai_part_d3387a_frontier_comp_c6e35a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_cloud_ai_part_d3387a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_cloud_ai_part_d3387a_microsoft_ope_657d40": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_income_securi_866926": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_income_securi_866926_basic_income_e0e7e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_income_securi_866926_basic_service_ed3e18": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_income_securi_866926_four_day_work_c90efc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_income_securi_866926_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_active_learni_df913b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_active_learni_df913b_active_learni_d18e80": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_active_learni_df913b_closed_loop_a_cb6f25": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_active_learni_df913b_exploration_v_fd6947": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_active_learni_df913b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_a_lab_autonom_e8b7aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_a_lab_autonom_e8b7aa_alab_17_day_r_d63460": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_a_lab_autonom_e8b7aa_alab_human_sc_287d45": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_a_lab_autonom_e8b7aa_alab_learning_da2275": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_a_lab_autonom_e8b7aa_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_closed_loop_a_9e9475": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_closed_loop_a_9e9475_closed_loop_e_f86db2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_closed_loop_a_9e9475_feedback_chan_52a5ea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_closed_loop_a_9e9475_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_closed_loop_a_9e9475_randomised_fe_cf2a99": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_self_driving_8cb29a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_self_driving_8cb29a_cloud_lab_rem_d90c28": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_self_driving_8cb29a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_self_driving_8cb29a_lab_data_ip_c_481d41": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_self_driving_8cb29a_open_lab_inte_dfdae4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_accessible_ai_34f623": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_accessible_ai_34f623_ai_dyslexia_r_f9bbb6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_accessible_ai_34f623_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_accessible_ai_34f623_low_resource_f3a405": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_accessible_ai_34f623_multimodal_ac_2a72eb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_socratic_ai_t_ef430b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_socratic_ai_t_ef430b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_socratic_ai_t_ef430b_progressive_h_cc13ab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_socratic_ai_t_ef430b_scaffolding_c_7be2a7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_socratic_ai_t_ef430b_socratic_prog_e86693": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_trusted_publi_a07b34": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_trusted_publi_a07b34_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_trusted_publi_a07b34_library_ai_tu_b2498d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_trusted_publi_a07b34_trusted_ai_tu_28a639": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_trusted_publi_a07b34_two_tier_ai_t_fd2493": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_tutor_vs_chat_fa73cd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_tutor_vs_chat_fa73cd_adaptive_misc_20d83a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_tutor_vs_chat_fa73cd_harvard_ai_tu_f58bfe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_tutor_vs_chat_fa73cd_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_tutor_vs_chat_fa73cd_judging_ai_tu_7d5ffd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_bias_outco_fb9fb0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_bias_outco_fb9fb0_ai_hiring_bia_ed2db6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_bias_outco_fb9fb0_gender_shades_0e56c0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_bias_outco_fb9fb0_healthcare_al_29d1da": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_bias_outco_fb9fb0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_persuasion_825096": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_persuasion_825096_ai_persuasion_310d94": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_persuasion_825096_eu_ai_manipul_e1dc0e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_persuasion_825096_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_persuasion_825096_personalised_bda896": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_principles_da3181": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_principles_da3181_ai_constituti_126a92": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_principles_da3181_global_ai_eth_6ef396": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_principles_da3181_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_principles_da3181_medical_ai_tr_e4af82": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_human_feedbac_319f2e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_human_feedbac_319f2e_constitutiona_4a5a8a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_human_feedbac_319f2e_human_prefere_bd53c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_human_feedbac_319f2e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_human_feedbac_319f2e_reward_hackin_922a3b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_global_coo_296d09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_global_coo_296d09_ai_global_coo_5ae0dc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_global_coo_296d09_distributed_a_cfd1cc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_global_coo_296d09_frontier_ai_c_6a7f45": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_global_coo_296d09_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_infrastruc_d01102": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_infrastruc_d01102_ai_digital_tw_dd3875": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_infrastruc_d01102_ai_flood_fore_1aa125": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_infrastruc_d01102_ai_grid_risk_752197": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_infrastruc_d01102_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_pandemic_d_9e1180": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_pandemic_d_9e1180_ai_biosecurit_1383fe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_pandemic_d_9e1180_ai_outbreak_s_05120d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_pandemic_d_9e1180_covid_ai_rese_eb8385": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_pandemic_d_9e1180_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_space_sett_f56aaf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_space_sett_f56aaf_ai_space_habi_30db1c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_space_sett_f56aaf_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_space_sett_f56aaf_lunar_autonom_c84693": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_space_sett_f56aaf_lunar_resourc_fe7a31": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_hidden_gri_ee0130": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_hidden_gri_ee0130_dynamic_line_a6386c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_hidden_gri_ee0130_forecasting_r_8bafaa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_hidden_gri_ee0130_hidden_capaci_91d3dd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_hidden_gri_ee0130_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_local_grid_6d4932": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_local_grid_6d4932_ai_grid_conne_f184a5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_local_grid_6d4932_ai_grid_upgra_e52d90": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_local_grid_6d4932_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_local_grid_6d4932_northern_virg_a1df9b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_materials_c8fe7c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_materials_c8fe7c_autonomous_la_8f6b80": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_materials_c8fe7c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_materials_c8fe7c_materials_sca_371350": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_materials_c8fe7c_predicted_mat_e4b83a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_flexible_data_7d5d8d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_flexible_data_7d5d8d_ai_workload_f_00a14a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_flexible_data_7d5d8d_data_centre_g_8229aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_flexible_data_7d5d8d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_flexible_data_7d5d8d_phoenix_gpu_d_a00f0e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_autonomous_mi_f19d4e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_autonomous_mi_f19d4e_early_haul_tr_62cc88": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_autonomous_mi_f19d4e_human_autonom_4af952": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_autonomous_mi_f19d4e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_autonomous_mi_f19d4e_iso_17757_min_e645a7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_construction_e8d88a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_construction_e8d88a_construction_fbe390": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_construction_e8d88a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_construction_e8d88a_robots_in_uns_8450a1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_construction_e8d88a_safer_roof_dr_e253cf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_farm_robots_w_8a51f4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_farm_robots_w_8a51f4_harsh_fields_53587c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_farm_robots_w_8a51f4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_farm_robots_w_8a51f4_precision_spr_359e97": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_farm_robots_w_8a51f4_robots_hottes_ccedf6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_sellafield_cl_115caf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_sellafield_cl_115caf_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_sellafield_cl_115caf_sellafield_hu_cd9fbd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_sellafield_cl_115caf_sellafield_re_81fa95": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_sellafield_cl_115caf_sellafield_ro_e3a77e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_ai_research_t_2c968f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_ai_research_t_2c968f_ai_coding_acc_93c2c7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_ai_research_t_2c968f_ai_research_a_0dc91c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_ai_research_t_2c968f_automated_ai_18afaf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_ai_research_t_2c968f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_explosion_evi_34d945": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_explosion_evi_34d945_ai_agents_sel_aa349b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_explosion_evi_34d945_ai_benchmark_0ce3e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_explosion_evi_34d945_ai_scaling_li_c20deb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_explosion_evi_34d945_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_superintellig_2863e8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_superintellig_2863e8_ai_access_pow_2df233": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_superintellig_2863e8_global_ai_coo_ac825d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_superintellig_2863e8_human_ai_over_10909b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_superintellig_2863e8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_superintellig_993cd1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_superintellig_993cd1_ai_safety_eva_e39159": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_superintellig_993cd1_claude_alignm_060a96": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_superintellig_993cd1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_superintellig_993cd1_reward_hackin_a4c466": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "shared_pages_compared": 222,
+  "regressions": []
+}

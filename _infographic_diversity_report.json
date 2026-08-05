@@ -1,0 +1,4119 @@
+{
+  "generated_at_utc": "2026-08-05T04:28:13.065531Z",
+  "mode": "warn_only",
+  "summary": {
+    "pages_with_stage2_metadata": 171,
+    "pages_review_recommended": 1,
+    "warning_reason_counts": {
+      "single_reader_role": 1
+    }
+  },
+  "pages": [
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_autonomous_ey_52d243_same_visit_ey_dd27fa",
+      "title": "Why Same Visit Eye Exams Change Patient Follow Through",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "timeline_horizon",
+        "timeline_snake"
+      ],
+      "roles": [
+        "chronology",
+        "chronology",
+        "chronology"
+      ],
+      "titles": [
+        "Conventional Referral Patient Attrition",
+        "ACCESS Trial Screening Completion Rates",
+        "Same Visit AI Clinical Workflow"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.0,
+      "review_recommended": true,
+      "warning_reasons": [
+        "single_reader_role"
+      ]
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6",
+      "title": "Could AI Help Humanity Truly Flourish?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Scientific Acceleration via AI Systems",
+        "AI Bloom Outcomes vs. Risks",
+        "Pillars of a Flourishing AI Bloom"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+      "title": "What Would AI Abundance Actually Make Cheap?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "AI Intelligence Economic Input Flow",
+        "Selective Abundance vs Physical Scarcity",
+        "Services Approaching AI Abundance"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc",
+      "title": "Will Abundant AI Benefit Everyone or Mainly Owners?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "venn",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Hidden Costs of AI Services",
+        "Barriers to AI Profit Distribution",
+        "OECD Policy Strategies for AI Gains"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc_ai_platform_s_d22d18",
+      "title": "Will AI Savings Reach Users or Platforms?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "gem",
+        "quadrant"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "AI Infrastructure Market Power Cycle",
+        "Mechanisms Reinforcing Market Power",
+        "Future of AI Price Distribution"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc_global_ai_une_4e84d4",
+      "title": "Who Benefits First From AI Across Countries?",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "list_vertical",
+        "tree_map"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "AI Usage vs. Value Creation",
+        "Four Foundations for AI Participation",
+        "Global AI Adoption Trends 2025"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc_scarce_assets_3f042b",
+      "title": "What Stays Expensive When Intelligence Becomes Cheap?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "AI Value Chain Bottleneck Progression",
+        "Housing Cost Drivers vs AI Design",
+        "New Scarcity Categories in AI Era"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa",
+      "title": "Why Better AI Plans Will Not Make Homes Cheap",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "AI Integration in Housing Design",
+        "Information vs. Physical Bottlenecks",
+        "Drivers of Housing Affordability"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa_ai_planning_p_31fe0b",
+      "title": "Can Faster Planning Software Fix Housing Shortages?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "tug_of_war",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "UK Extract System Workflow",
+        "AI Capabilities vs. Human Judgement",
+        "AI Planning Safeguards and Risks"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa_construction_4cabc6",
+      "title": "Would Robot Builders End Housing Scarcity?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "diverging_bars",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "data",
+        "taxonomy"
+      ],
+      "titles": [
+        "Off site Modular Construction Workflow",
+        "Robotic Capabilities vs Physical Constraints",
+        "Construction Robotics Task Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa_development_r_40ee3c",
+      "title": "Why Permission to Build Costs So Much",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "quadrant"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Feedback Loop of Scarcity",
+        "Housing Cost Component Analysis",
+        "AI Productivity in Housing Development"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_tutoring_r_e44cc1",
+      "title": "Can Cheap AI Tutoring Produce Real Learning?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Pedagogical Design for AI Tutoring",
+        "Performance Support vs Learning Support",
+        "Human Elements in AI Education"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_tutoring_r_e44cc1_ai_coaching_h_426998",
+      "title": "Can AI Turn Novice Tutors Into Better Teachers?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "diverging_bars",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "data",
+        "summary"
+      ],
+      "titles": [
+        "AI Enhanced Instructional Coaching Workflow",
+        "Novice vs. Expert Tutoring Patterns",
+        "AI Coaching Capabilities and Limits"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_tutoring_r_e44cc1_ai_illusion_o_7db1eb",
+      "title": "When Better Answers Hide Weaker Learning",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "venn",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Performance vs. Durable Learning",
+        "Mechanisms of False Mastery",
+        "Testing Durable Learning Methods"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_tutoring_r_e44cc1_effective_ai_8e3fc5",
+      "title": "What Makes an AI Tutor Actually Teach?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Socratic AI Tutoring Key Stages",
+        "Chatbot vs. AI Tutor Goals",
+        "AI Tutoring Implementation Challenges"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_verificati_7be513",
+      "title": "When AI Output Is Cheap, Who Checks It?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "AI Knowledge Production Workflow",
+        "Generation vs. Verification Scaling",
+        "High Stakes AI Error Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_verificati_7be513_ai_reviewers_da5afd",
+      "title": "Can AI Be Trusted to Check AI?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "diverging_bars",
+        "quadrant"
+      ],
+      "roles": [
+        "process",
+        "data",
+        "comparison"
+      ],
+      "titles": [
+        "Layered Verification Workflow for AI Output",
+        "AI Reviewer Capabilities vs. Human Judgment",
+        "Techniques for AI Verification Systems"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_verificati_7be513_jagged_fronti_9c0fb9",
+      "title": "Why AI's Best Work Can Still Fail",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "prism",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "Psychological Erosion of Human Vigilance",
+        "Subtle AI Errors in Professional Fields",
+        "Strategies for Navigating the Jagged Frontier"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_verificati_7be513_legal_ai_liab_5f8b30",
+      "title": "Who Pays When Legal AI Gets It Wrong?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Legal AI Hallucination Failure Chain",
+        "Retrieval Augmented Generation vs. General AI",
+        "Lawyer Duties in AI Integration"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+      "title": "Can AI Add Healthy Years to Human Life?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "AI Drug Development Pipeline",
+        "AI Screening vs. Standard Care",
+        "Levels of AI Medical Evidence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_ai_mammograph_c19414",
+      "title": "Does AI Breast Screening Save More Lives?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "versus",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "MASAI Trial Clinical Workflow",
+        "AI vs Conventional Mammography Metrics",
+        "Screening Success Evaluation Criteria"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_ai_mammograph_c19414_ai_mammograph_1fc0e6",
+      "title": "What Must AI Mammography Prove Before Rollout?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "fact_box_sidebar",
+        "process_steps"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "Core Outcomes for National AI Adoption",
+        "Detection Metrics vs. Health Outcomes",
+        "AI Mammography Workflow Benefits"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_ai_mammograph_c19414_dcis_overdiag_c2f99f",
+      "title": "When Finding More DCIS Causes More Harm",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "diverging_bars"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "data"
+      ],
+      "titles": [
+        "Clinical Pathway for DCIS Diagnosis",
+        "AI Detection Outcomes in Masai Trial",
+        "Overdiagnosis vs Overtreatment Definitions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_ai_mammograph_c19414_interval_canc_9adf71",
+      "title": "Do Fewer Interval Cancers Prove AI Helps?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "MASAI Trial Screening Workflow",
+        "AI vs Conventional Screening Metrics",
+        "Interval Cancer Risk Factors"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_alphafold_dru_7f051a",
+      "title": "Can Protein Prediction Really Speed Up Drug Discovery?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Alpha Fold Drug Discovery Workflow",
+        "Alpha Fold Prediction Limitations",
+        "Alpha Fold Research Benefits"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_alphafold_dru_7f051a_alphafold_con_418f00",
+      "title": "When Should Scientists Trust an Alpha Fold Model?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Alpha Fold Confidence Driven Research Workflow",
+        "p LDDT vs PAE Metric Comparison",
+        "Alpha Fold Confidence Interpretation Tiers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_alphafold_dru_7f051a_alphafold_exp_535d7c",
+      "title": "Why a Predicted Protein Shape Is Not Proof",
+      "infographic_count": 3,
+      "templates": [
+        "diverging_bars",
+        "timeline_snake",
+        "process_steps"
+      ],
+      "roles": [
+        "data",
+        "chronology",
+        "process"
+      ],
+      "titles": [
+        "Alpha Fold Predictions vs Experimental Measurements",
+        "Biological Contexts Beyond Protein Key Stages",
+        "AI Accelerated Drug Discovery Pipeline"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_alphafold_dru_7f051a_alphafold_exp_cc4145",
+      "title": "How Alpha Fold Changes Which Experiments Get Done",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Alpha Fold Virtual Screening Workflow",
+        "AI Prediction vs Experimental Solving",
+        "Alpha Fold Prioritization Ranking Factors"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_autonomous_ey_52d243",
+      "title": "Can AI Bring Specialist Screening to the Clinic?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Autonomous Retinal Screening Workflow",
+        "Traditional vs Autonomous Screening",
+        "Benefits of AI Enabled Screening"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_autonomous_ey_52d243_autonomous_ey_a0564b",
+      "title": "What Clinics Need Before Autonomous Eye Screening Works",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tree_map",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "taxonomy",
+        "taxonomy"
+      ],
+      "titles": [
+        "Autonomous Retinal Screening Workflow",
+        "Zufall Health Center Implementation Results",
+        "Foundations of Autonomous Screening Success"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_autonomous_ey_52d243_eye_screening_90ce1f",
+      "title": "Can AI Eye Exams Reduce Screening Inequality?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "masonry"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Autonomous AI Screening Workflow",
+        "Barriers to Diabetic Eye Care",
+        "AI Impact on Health Equity"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_rentosertib_a_c3ad2c",
+      "title": "Has an AI Designed Drug Passed the Real Test?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Rentosertib AI Driven Discovery Path",
+        "Rentosertib Phase 2 a Trial Outcomes",
+        "AI Drug Discovery Milestones"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_rentosertib_a_c3ad2c_limits_of_ren_56c04d",
+      "title": "Why One AI Drug Trial Is Not Enough",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Rentosertib Clinical Development Pipeline",
+        "Rentosertib Trial Limitations vs Requirements",
+        "Evidence for AI Drug Discovery Validation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_rentosertib_a_c3ad2c_rentosertib_p_03d7d7",
+      "title": "What Did Rentosertib's Human Trial Really Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "grid_stats",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Rentosertib Phase 2 a Trial Workflow",
+        "Rentosertib Lung Function Outcomes",
+        "AI Discovery vs. Clinical Reality"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_rentosertib_a_c3ad2c_rentosertib_t_016cfd",
+      "title": "How AI Took Rentosertib From Target to Molecule",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Rentosertib AI Driven Discovery Workflow",
+        "Traditional vs AI Assisted Drug Discovery",
+        "Panda Omics Data Integration Sources"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+      "title": "Who Gets the Wealth of an Automated Economy?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "comparison_columns",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Mechanisms for Distributing AI Gains",
+        "Narrow vs. Broad AI Prosperity",
+        "Transitioning to Broad Asset Ownership"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b",
+      "title": "Can Digital Abundance Coexist With Everyday Insecurity?",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "list_vertical",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Digital Abundance vs Physical Scarcity",
+        "AI Infrastructure Energy Requirements",
+        "Ownership and AI Wealth Distribution"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b_ai_asset_owne_54bc2f",
+      "title": "Who Owns The Gains From AI?",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Core AI Asset Infrastructure Components",
+        "AI Economic Outcome Scenarios",
+        "Routes to Shared AI Prosperity"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b_ai_energy_cap_9889e6",
+      "title": "Can Energy Keep Up With AI Abundance?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "AI Infrastructure Expansion Pipeline",
+        "Competing Priorities for Grid Capacity",
+        "Strategies for Grid Interactive AI"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b_ai_housing_sc_39267c",
+      "title": "Why AI Cannot Solve Housing Scarcity Alone",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AI Integration in Housing Construction",
+        "Production Efficiency vs. Land Scarcity",
+        "Binding Constraints on Housing Abundance"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_automation_la_71fa1a",
+      "title": "Can Wages Keep Up With Machine Owned Growth?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanisms of Falling Labour Share",
+        "Substitution vs Augmentation Outcomes",
+        "Bargaining Power Erosion Channels"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_automation_la_71fa1a_ai_task_incom_3f67bc",
+      "title": "When AI Tasks Shift Income Away",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanisms of AI Task Substitution",
+        "Two Pathways for AI Prosperity",
+        "Human Centric Value Domains"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_automation_la_71fa1a_ai_worker_exp_74f5e4",
+      "title": "Which Workers Face the Biggest AI Pressure",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "ILO Occupational AI Exposure Hierarchy",
+        "Exposure vs Displacement Dynamics",
+        "Factors Influencing AI Job Impact"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_automation_la_71fa1a_worker_ai_own_5307e2",
+      "title": "Can Workers Share AI's New Wealth",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Pathways to AI Wealth Distribution",
+        "Ownership Models vs. Innovation Risks",
+        "Employee Ownership Structures and Outcomes"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_cloud_ai_part_d3387a",
+      "title": "Who Really Controls the Companies Building Advanced AI?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Cloud AI Partnership Lifecycle",
+        "Concentration vs. Openness Tradeoffs",
+        "Mechanisms of Infrastructure Control"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_cloud_ai_part_d3387a_amazon_anthro_19f39f",
+      "title": "Why Amazon Anthropic built a different AI cloud path",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Amazon and Anthropic Partnership Evolution",
+        "Amazon's Infrastructure Strategy vs. Single Model Focus",
+        "Layers of the Amazon AI Ecosystem"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_cloud_ai_part_d3387a_frontier_comp_c6e35a",
+      "title": "Can compute scarcity limit the AI boom",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "myth_facts",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Frontier AI Infrastructure Requirements",
+        "Routes to Broader AI Access",
+        "Frontier AI Economic Constraints"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_cloud_ai_part_d3387a_microsoft_ope_657d40",
+      "title": "How Microsoft Open AI shaped AI infrastructure control",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "tree_roots"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Microsoft and Open AI Partnership Evolution",
+        "Strategic Influence of Cloud Infrastructure",
+        "Foundations of Frontier AI Power"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_income_securi_866926",
+      "title": "How Should People Live When Jobs Pay Less?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "venn",
+        "timeline_snake"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "ILO Social Insurance Protections",
+        "UBI vs UBS Models",
+        "Four Day Week Pilot Outcomes"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_income_securi_866926_basic_income_e0e7e1",
+      "title": "Can AI wealth fund basic income?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Funding AI Generated Basic Income",
+        "UBI Benefits vs. Limitations",
+        "Evidence from Cash Experiments"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_income_securi_866926_basic_service_ed3e18",
+      "title": "Can services replace lost job security?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "UBS Mechanism for Financial Security",
+        "UBS vs UBI in AI Economies",
+        "Core UBS Service Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_income_securi_866926_four_day_work_c90efc",
+      "title": "Could AI make the four day week normal?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "timeline_snake"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Workplace Redesign for Shorter Weeks",
+        "AI Productivity Gain Outcomes",
+        "Industry Constraints for Shorter Weeks"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+      "title": "Could AI Compress Decades of Scientific Progress?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "The AI Scientist Research Loop",
+        "Human vs AI Research Capacity",
+        "Risks of Automated Science"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_a_lab_autonom_e8b7aa",
+      "title": "Can a Robot Lab Really Discover New Materials?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "A Lab Autonomous Synthesis Workflow",
+        "A Lab vs. Traditional Research",
+        "A Lab Experimental Outcomes"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_a_lab_autonom_e8b7aa_alab_17_day_r_d63460",
+      "title": "What A Lab's 17 Day Run Really Demonstrated",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "grid_stats",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "A Lab Autonomous Synthesis Loop",
+        "A Lab 17 Day Campaign Results",
+        "A Lab Identified Failure Modes"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_a_lab_autonom_e8b7aa_alab_human_sc_287d45",
+      "title": "Why A Lab Was Not an Independent Scientist",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "A Lab Materials Synthesis Workflow",
+        "Laboratory vs. Scientific Autonomy",
+        "Human Roles in AI Enabled Science"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_a_lab_autonom_e8b7aa_alab_learning_da2275",
+      "title": "How A Lab Turned Failure Into Better Experiments",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "A Lab Closed Experimental Loop",
+        "Conventional vs. A Lab Research",
+        "A Lab Systematic Failure Modes"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_active_learni_df913b",
+      "title": "Which Experiment Should an AI Scientist Run Next?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "NIST Bayesian Active Learning Loop",
+        "Search Strategies in Materials Science",
+        "Active Learning Selection Strategies"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_active_learni_df913b_active_learni_d18e80",
+      "title": "When Active Learning Misses the Real Breakthrough",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "diverging_bars",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "data",
+        "summary"
+      ],
+      "titles": [
+        "Active Learning Bias Cycle",
+        "Calibration vs Prediction Accuracy",
+        "Barriers to Autonomous Lab Success"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_active_learni_df913b_closed_loop_a_cb6f25",
+      "title": "How One Experiment Chooses the Next",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "The A Lab Closed Loop Cycle",
+        "Autonomous vs. Conventional Labs",
+        "Constraints of Autonomous Systems"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_active_learni_df913b_exploration_v_fd6947",
+      "title": "Why the Best Prediction May Be the Wrong Experiment",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Active Learning Discovery Workflow",
+        "Exploitation vs Exploration Trade offs",
+        "Diversity Based Discovery Applications"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_closed_loop_a_9e9475",
+      "title": "When Does an AI Assistant Become a Scientist?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "hub"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Closed Loop AI Scientist Workflow",
+        "AI Assistant vs. AI Scientist",
+        "Co Scientist Agent Specializations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_closed_loop_a_9e9475_closed_loop_e_f86db2",
+      "title": "Can a Closed Loop Make Bad Science Worse?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "orbital_rings"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Closed Loop AI Scientist Workflow",
+        "Risks of Autonomous Research Loops",
+        "Safeguards for AI Scientist Systems"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_closed_loop_a_9e9475_feedback_chan_52a5ea",
+      "title": "When Does Experimental Feedback Actually Change the Plan?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Google Co Scientist Reasoning Loop",
+        "Feedback Utility for AI Scientists",
+        "AI Reasoning vs. Data Accumulation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_closed_loop_a_9e9475_randomised_fe_cf2a99",
+      "title": "Does Real Feedback Make AI Better at Discovery?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "diverging_bars",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "data",
+        "comparison"
+      ],
+      "titles": [
+        "Iterative Biological Discovery Workflow",
+        "Feedback Impact on AI Discovery",
+        "Model Upgrade Performance Metrics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_self_driving_8cb29a",
+      "title": "Will Automated Science Be Open to Everyone?",
+      "infographic_count": 3,
+      "templates": [
+        "orbital_rings",
+        "comparison_columns",
+        "process_pipeline"
+      ],
+      "roles": [
+        "other",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Infrastructure for Autonomous Laboratories",
+        "Governance of AI Scientific Discovery",
+        "Path to Scalable Autonomous Science"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_self_driving_8cb29a_cloud_lab_rem_d90c28",
+      "title": "Can Cloud Labs Democratise Automated Science?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Remote Experiment Workflow via Cloud Labs",
+        "Cloud Labs vs. Traditional Ownership",
+        "Barriers to Cloud Lab Democratization"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_self_driving_8cb29a_lab_data_ip_c_481d41",
+      "title": "Who Owns the Results of Robot Science?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Autonomous Laboratory Data Lifecycle",
+        "Traditional vs. Autonomous Records",
+        "Autonomous Lab Licensing Models"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_self_driving_8cb29a_open_lab_inte_dfdae4",
+      "title": "Can Open Standards Unlock Shared Laboratories?",
+      "infographic_count": 3,
+      "templates": [
+        "prism",
+        "versus",
+        "process_steps"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "NIST Modular Laboratory Standards Layers",
+        "Proprietary vs. Open Laboratory Systems",
+        "Benefits of Laboratory Interoperability"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+      "title": "Could Everyone Have a World Class Personal Tutor?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "AI Tutor Pedagogical Design Flow",
+        "Cognitive Offloading vs. Scaffolding",
+        "World Bank AI Education Infrastructure"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_accessible_ai_34f623",
+      "title": "Can AI Tutors Make Learning More Accessible For Everyone?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AI Language Learning Workflow",
+        "AI vs Human Teacher Roles",
+        "Dyslexia Support via Immersive Reader"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_accessible_ai_34f623_ai_dyslexia_r_f9bbb6",
+      "title": "Can AI Make Reading Less Exhausting?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "venn",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Cognitive Load in Dyslexic Reading",
+        "Microsoft Immersive Reader Features",
+        "AI Responsive Assistance Workflow"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_accessible_ai_34f623_low_resource_f3a405",
+      "title": "Why AI Tutors Still Fail Many Languages",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "tug_of_war",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Barriers to Low Resource Language AI",
+        "Commercial vs. Community AI Incentives",
+        "Infrastructure for Underserved Communities"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_accessible_ai_34f623_multimodal_ac_2a72eb",
+      "title": "What Makes an AI Tutor Truly Accessible?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Building Accessible AI Tutoring Systems",
+        "Multimodal Support vs. Single Mode",
+        "UNESCO AI Accessibility Features"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_socratic_ai_t_ef430b",
+      "title": "Why Good AI Tutors Ask More Than They Answer",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Socratic AI Tutoring Workflow",
+        "Shortcut Learning vs Socratic Tutoring",
+        "Socratic AI Design Constraints"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_socratic_ai_t_ef430b_progressive_h_cc13ab",
+      "title": "When Does a Hint Help Too Much?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Socratic AI Hint Progression Key Stages",
+        "Productive Struggle vs. Scaffolding Collapse",
+        "Signals for Dynamic Hint Adjustment"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_socratic_ai_t_ef430b_scaffolding_c_7be2a7",
+      "title": "Why AI Tutors Eventually Give Away Answers",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Stages of Scaffolding Collapse",
+        "Instructional Goals vs Model Behavior",
+        "Structural Safeguards Against Answer Dumping"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_socratic_ai_t_ef430b_socratic_prog_e86693",
+      "title": "Do Socratic AI Tutors Improve Coding Skills?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Socratic AI Tutoring Interaction Flow",
+        "Direct Answer vs Socratic Support",
+        "Programming Evidence Strengths and Limits"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_trusted_publi_a07b34",
+      "title": "Who Should Provide Trusted AI Tutors For Everyone?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "timeline_snake",
+        "tree_map"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "taxonomy"
+      ],
+      "titles": [
+        "Commercial vs Public AI Tutors",
+        "AI Tutor Certification Requirements",
+        "Public Institution Assets for AI"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_trusted_publi_a07b34_library_ai_tu_b2498d",
+      "title": "Could Libraries Become the Front Door to AI Tutoring?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "tug_of_war",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Library AI Tutoring Workflow",
+        "Library vs Commercial AI Privacy",
+        "Library AI Literacy Pillars"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_trusted_publi_a07b34_trusted_ai_tu_28a639",
+      "title": "What Would Make an AI Tutor Trustworthy?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Continuous AI Tutor Certification Lifecycle",
+        "Core Certification Testing Domains",
+        "Audit Roles in AI Certification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_trusted_publi_a07b34_two_tier_ai_t_fd2493",
+      "title": "Will Free AI Tutors Be Good Enough?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "comparison_columns",
+        "timeline_snake"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Premium AI Tutor Feature Hierarchy",
+        "Free vs. Premium AI Tutoring Models",
+        "Risks of Low Quality AI Tutoring"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_tutor_vs_chat_fa73cd",
+      "title": "Can A General Chatbot Really Replace A Designed AI Tutor?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "timeline_snake",
+        "gem"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "other"
+      ],
+      "titles": [
+        "General Chatbot vs Purpose Built AI Tutor",
+        "Harvard Physics AI Tutor Design Steps",
+        "Core Principles of Instructional Design"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.182,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_tutor_vs_chat_fa73cd_adaptive_misc_20d83a",
+      "title": "Can an AI Tutor Understand Why You Are Wrong?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "comparison_columns",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "AI Tutor Diagnostic Workflow",
+        "Chatbot vs AI Tutor Comparison",
+        "Clues for Student Modeling"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_tutor_vs_chat_fa73cd_harvard_ai_tu_f58bfe",
+      "title": "Did Harvard Prove AI Tutors Beat Classrooms?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Harvard Physics AI Tutor Design",
+        "AI Tutor vs. Active Learning",
+        "Trial Limitations and Scope"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_tutor_vs_chat_fa73cd_judging_ai_tu_7d5ffd",
+      "title": "How Can Schools Spot a Genuine AI Tutor?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Measuring Student Learning Gains",
+        "AI Tutors vs. General Chatbots",
+        "Reliable AI Tutor Requirements"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+      "title": "How Could Superintelligence Serve Human Flourishing?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "tug_of_war"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Layers of Flourishing Oriented Alignment",
+        "Narrow Instruction vs Flourishing Alignment",
+        "Risks in the International AI Safety Report"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_bias_outco_fb9fb0",
+      "title": "Can AI Benefits Reach Everyone Fairly?",
+      "infographic_count": 3,
+      "templates": [
+        "tug_of_war",
+        "list_vertical",
+        "versus"
+      ],
+      "roles": [
+        "other",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Mechanisms of AI Bias Entry",
+        "Gender Shades Facial Recognition Gaps",
+        "Paths to Aligned AI Flourishing"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_bias_outco_fb9fb0_ai_hiring_bia_ed2db6",
+      "title": "When AI Learns Old Hiring Bias",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "venn",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "The AI Bias Feedback Loop",
+        "Accuracy vs. Fair Opportunity",
+        "Safeguards for Fairer AI Hiring"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_bias_outco_fb9fb0_gender_shades_0e56c0",
+      "title": "Why Facial AI Failed Some People",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "comparison_columns",
+        "process_steps"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Gender Shades Accuracy Disparities",
+        "Standard vs Intersectional Evaluation",
+        "Fairer AI Testing Requirements"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_bias_outco_fb9fb0_healthcare_al_29d1da",
+      "title": "When AI Healthcare Gets Need Wrong",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "comparison_columns",
+        "quadrant"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Hidden Biases in Health care Spending Data",
+        "Safeguards for Fairer Medical AI Decisions",
+        "Impact of Target Correction on Black Patients"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_persuasion_825096",
+      "title": "When AI Persuasion Threatens Human Choice",
+      "infographic_count": 3,
+      "templates": [
+        "prism",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanisms of AI Driven Influence",
+        "Helpful Persuasion vs Harmful Manipulation",
+        "Safeguards for Human Agency in AI"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_persuasion_825096_ai_persuasion_310d94",
+      "title": "How Persuasive Are Today's AI Systems",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanism of AI Persuasion Logic",
+        "AI vs Human Persuasion Dynamics",
+        "Risks of AI Enabled Persuasion"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_persuasion_825096_eu_ai_manipul_e1dc0e",
+      "title": "Can AI Laws Protect Human Autonomy",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "venn",
+        "timeline_snake"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Supportive vs Controlling AI Systems",
+        "Prohibited AI Practices Under Article 5",
+        "Enforcement Challenges for AI Manipulation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_persuasion_825096_personalised_bda896",
+      "title": "When AI Assistants Start Shaping Your Choices",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "orbital_rings"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "The Personalised AI Influence Loop",
+        "Recommendation vs Relationship Influence",
+        "Mechanisms of AI Influence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_principles_da3181",
+      "title": "Who Gets To Set AI Values?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Constitutional AI Training Workflow",
+        "Conflicting AI Value Trade offs",
+        "Legitimate AI Alignment Foundations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_principles_da3181_ai_constituti_126a92",
+      "title": "Who Chooses the Values Inside AI Constitutions?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Anthropic Constitutional AI Development Path",
+        "Trade offs in AI Constitutional Design",
+        "UNESCO AI Ethics Framework Pillars"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_principles_da3181_global_ai_eth_6ef396",
+      "title": "Can Global AI Rules Reflect Many Cultures?",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "quadrant",
+        "process_pipeline"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "UNESCO AI Ethics Core Values",
+        "Competing AI Policy Priorities",
+        "UNESCO Readiness Assessment Steps"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_principles_da3181_medical_ai_tr_e4af82",
+      "title": "When Medical AI Values Collide",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Governance Framework for Medical AI",
+        "Privacy vs. Research Benefit Trade offs",
+        "Regulatory Principles for Medical Devices"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_human_feedbac_319f2e",
+      "title": "Can Human Feedback Align AI Fully?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "RLHF Training Pipeline Stages",
+        "RLHF Limitations vs. Human Flourishing",
+        "Scalable Oversight Challenges for AI"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_human_feedbac_319f2e_constitutiona_4a5a8a",
+      "title": "Can AI Principles Improve Human Oversight",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Anthropic Constitutional AI Training Pipeline",
+        "RLHF vs. Constitutional AI Oversight",
+        "Risks of Scalable Oversight Systems"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_human_feedbac_319f2e_human_prefere_bd53c4",
+      "title": "Why Humans Disagree About AI Answers",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "comparison_columns",
+        "geode"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Drivers of Human Preference Disagreement",
+        "Surface Preference vs Deep Values",
+        "Informative Signals in Disagreement"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_human_feedbac_319f2e_reward_hackin_922a3b",
+      "title": "When AI Learns To Game Human Feedback",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Mechanisms of Reward Model Overoptimization",
+        "Misleading Behaviors in RLHF Systems",
+        "Strategies to Mitigate Reward Hacking"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+      "title": "Could AI Make Civilisation Safer and Larger?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "lighthouse"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "AI Pandemic Defense Pipeline",
+        "AI Resilience vs. Vulnerability Trade offs",
+        "Requirements for a Resilient AI Future"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_global_coo_296d09",
+      "title": "Can AI coordinate humanity without control?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "AI Coordination and Governance Path",
+        "Concentration vs Distribution Risks",
+        "Pillars of a Coordinated AI Future"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_global_coo_296d09_ai_global_coo_5ae0dc",
+      "title": "Can Nations Coordinate AI Safely?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Bletchley Park AI Safety Pathway",
+        "Frontier AI Risk Perspectives",
+        "Bletchley Cooperation Limitations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_global_coo_296d09_distributed_a_cfd1cc",
+      "title": "Can AI Power Become More Distributed?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "earth_core"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Path to Distributed AI Infrastructure",
+        "Closed vs Open AI Models",
+        "Barriers to AI Infrastructure Sovereignty"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_global_coo_296d09_frontier_ai_c_6a7f45",
+      "title": "Who Should Control Advanced AI Compute?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "US Semiconductor Export Control Expansion",
+        "Compute Governance Trade offs",
+        "Frontier AI Infrastructure Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_infrastruc_d01102",
+      "title": "Can AI help civilisation repair itself?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "AI Predictive Maintenance Workflow",
+        "Reactive vs Anticipatory Civilisation",
+        "AI Applications in Disaster Management"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_infrastruc_d01102_ai_digital_tw_dd3875",
+      "title": "Can Digital Twins Prevent Infrastructure Failures?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "AI Digital Twin Risk Detection Flow",
+        "Static vs Living Infrastructure Models",
+        "Digital Twin Implementation Barriers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_infrastruc_d01102_ai_flood_fore_1aa125",
+      "title": "How AI Improves Flood Warnings",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AI Flood Prediction Workflow",
+        "AI vs Traditional Forecasting",
+        "Actionable Warning Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_infrastruc_d01102_ai_grid_risk_752197",
+      "title": "Can AI Prevent Power Grid Failures?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "tug_of_war",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "AI Grid Risk Prediction Workflow",
+        "Traditional vs AI Grid Management",
+        "Components of AI Enabled Resilience"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_pandemic_d_9e1180",
+      "title": "Can AI build stronger pandemic defences?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "WHO EIOS Pandemic Detection Flow",
+        "AI Pandemic Defense Trade offs",
+        "AI Pandemic Defense Architecture"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_pandemic_d_9e1180_ai_biosecurit_1383fe",
+      "title": "How AI biology needs stronger safeguards",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AI Biosecurity Safeguard Layers",
+        "Dual Use AI Biology Trade offs",
+        "AI Biology Risk Characteristics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_pandemic_d_9e1180_ai_outbreak_s_05120d",
+      "title": "Can AI spot pandemics before they spread?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "AI Outbreak Surveillance Workflow",
+        "AI Pandemic Prediction Limits",
+        "One Health Surveillance Sources"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_pandemic_d_9e1180_covid_ai_rese_eb8385",
+      "title": "What COVID 19 taught about AI medicine",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "chronology"
+      ],
+      "titles": [
+        "AI Integration in COVID 19 Research",
+        "AI Capabilities vs. Medical Foundations",
+        "Chain of Trust in AI Medicine"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_space_sett_f56aaf",
+      "title": "Could AI help humanity reach space?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "tree_roots"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "NASA Moon to Mars Architecture Key Stages",
+        "AI Capabilities vs Engineering Realities",
+        "AI Enabled Space Settlement Tasks"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_space_sett_f56aaf_ai_space_habi_30db1c",
+      "title": "How will AI keep space habitats alive?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "AI Predictive Maintenance Workflow",
+        "Human vs AI Habitat Roles",
+        "NASA ECLSS Resource Management"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_space_sett_f56aaf_lunar_autonom_c84693",
+      "title": "Can lunar robots build before humans arrive?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Lunar Settlement Preparation Pathway",
+        "CADRE Rover Cooperative Capabilities",
+        "Lunar Environment Operational Risks"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_space_sett_f56aaf_lunar_resourc_fe7a31",
+      "title": "Can moon dust become future homes?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Lunar Regolith Construction Workflow",
+        "Earth vs. Lunar Construction Logistics",
+        "Lunar Regolith Infrastructure Applications"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b",
+      "title": "Can AI Abundance Outrun Physical Resource Limits?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "AI Material Discovery Loop",
+        "AI Energy Demand vs Efficiency",
+        "Critical Minerals and Supply Chains"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_hidden_gri_ee0130",
+      "title": "How Much More Can Existing Grids Carry?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Dynamic Line Rating Data Inputs",
+        "Static vs Dynamic Line Ratings",
+        "Grid Enhancing Technology Hierarchy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_hidden_gri_ee0130_dynamic_line_a6386c",
+      "title": "When Can Power Lines Safely Carry More?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Dynamic Line Rating Data Flow",
+        "Static vs Dynamic Line Ratings",
+        "DLR Performance and Impact Metrics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_hidden_gri_ee0130_forecasting_r_8bafaa",
+      "title": "Can Better Forecasts Stop Wasting Clean Power?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "tree_map",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "AI Forecasting Data Integration Flow",
+        "Operational Benefits of Accurate Forecasts",
+        "Forecasting vs. Physical Infrastructure"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_hidden_gri_ee0130_hidden_capaci_91d3dd",
+      "title": "Where Does Hidden Grid Capacity Run Out?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Unlocking Hidden Grid Capacity",
+        "Software vs. Physical Grid Limits",
+        "Hard Bottlenecks in Grid Corridors"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_local_grid_6d4932",
+      "title": "When AI Growth Outruns the Local Grid",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "tug_of_war",
+        "orbital_rings"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "other"
+      ],
+      "titles": [
+        "AI Data Center Grid Connection Process",
+        "Regional AI Power Strain Examples",
+        "AI Infrastructure Physical Bottlenecks"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_local_grid_6d4932_ai_grid_conne_f184a5",
+      "title": "Why AI Data Centres Cannot Plug In Quickly",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "IEA Large Load Connection Study Key Stages",
+        "Data Center vs Grid Expansion Time lines",
+        "Competing Grid Connection Requests"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_local_grid_6d4932_ai_grid_upgra_e52d90",
+      "title": "Who Pays to Power Massive AI Data Centres?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "fact_box_sidebar",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Three Models for AI Grid Costs",
+        "Developer Pays vs Shared Investment",
+        "Safeguards for Grid Connection Requests"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_local_grid_6d4932_northern_virg_a1df9b",
+      "title": "Can Northern Virginia Keep Powering the AI Boom?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Loudoun County Data Center Evolution",
+        "Data Center Growth Trade offs",
+        "AI Infrastructure Bottlenecks"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_materials_c8fe7c",
+      "title": "Why Promising AI Materials Still Fail to Scale",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "A Lab Autonomous Synthesis Workflow",
+        "Lab Success vs. Industrial Scaling",
+        "Target Materials for Clean Energy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_materials_c8fe7c_autonomous_la_8f6b80",
+      "title": "Can Robotic Labs Keep Up With AI Discovery?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "fact_box_sidebar",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Berkeley Lab A Lab Experimental Loop",
+        "Computational Prediction vs Physical Validation",
+        "Autonomous Lab Efficiency Gains"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_materials_c8fe7c_materials_sca_371350",
+      "title": "Why Great Materials Fail Outside the Lab",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "hub"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Battery Material Scale Up Pathway",
+        "Lab vs. Industrial Constraints",
+        "Catalyst Degradation Mechanisms"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_materials_c8fe7c_predicted_mat_e4b83a",
+      "title": "Which Predicted Materials Can Actually Be Made?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Berkeley A Lab Autonomous Loop",
+        "Thermodynamic Stability vs Synthesisability",
+        "Signals for Synthesisability Prediction"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_flexible_data_7d5d8d",
+      "title": "Can Data Centres Help Balance the Grid?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Phoenix GPU Trial Workflow",
+        "Traditional vs Flexible AI Loads",
+        "Requirements for Data Center Flexibility"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_flexible_data_7d5d8d_ai_workload_f_00a14a",
+      "title": "Which AI Jobs Can Wait for Cleaner Power?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "tug_of_war",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Phoenix Field Demonstration Workflow",
+        "Flexible vs Inflexible AI Workloads",
+        "Flexible AI Computing Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_flexible_data_7d5d8d_data_centre_g_8229aa",
+      "title": "Who Should Pay AI Data Centres to Flex?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "list_vertical",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Verification of Data Centre Flexibility",
+        "Types of Grid Flexibility Services",
+        "Stakeholders in Flexibility Economics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_flexible_data_7d5d8d_phoenix_gpu_d_a00f0e",
+      "title": "Can an AI Cluster Cut Power Without Going Offline?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Phoenix GPU Trial Software Logic",
+        "Phoenix Trial vs Traditional Methods",
+        "Limitations of AI Grid Flexibility"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+      "title": "Could Robots End the Work Humans Should Not Do?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Path to Reducing Dangerous Labour",
+        "Workplace Fatalities in Great Britain",
+        "High Risk Robotics Applications"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_autonomous_mi_f19d4e",
+      "title": "Do Autonomous Mines Really Protect Workers?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Autonomous Mining Safety Layers",
+        "Human vs. Autonomous Mining Risks",
+        "New Digital Mining Hazards"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_autonomous_mi_f19d4e_early_haul_tr_62cc88",
+      "title": "What the Early Haul Truck Collision Really Taught",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "hub"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Jimblebar Mine Collision Key Stages",
+        "Divergent Operational Assumptions",
+        "Post Collision Safety Protocols"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_autonomous_mi_f19d4e_human_autonom_4af952",
+      "title": "Why Human and Autonomous Mine Traffic Still Collides",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "orbital_rings"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Autonomous Mining Safety System Integration",
+        "Human vs. Autonomous Traffic Logic",
+        "Mixed Traffic Management Strategies"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_autonomous_mi_f19d4e_iso_17757_min_e645a7",
+      "title": "Why ISO 17757 Looks Beyond the Vehicle",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "versus",
+        "satellite_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "geography"
+      ],
+      "titles": [
+        "ISO 17757 System Lifecycle Governance",
+        "Traditional vs ISO 17757 Safety",
+        "ISO 17757 Infrastructure Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_construction_e8d88a",
+      "title": "Which Construction Jobs Should Robots Do First?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Robotic Roofing Project Workflow",
+        "Human vs. Robotic Demolition Roles",
+        "Specialized Construction Robotics Types"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_construction_e8d88a_construction_fbe390",
+      "title": "When Safer Construction Robots Create New Hazards",
+      "infographic_count": 3,
+      "templates": [
+        "prism",
+        "tug_of_war",
+        "venn"
+      ],
+      "roles": [
+        "taxonomy",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Construction Robotic Operating Zone Failures",
+        "Remote Operation vs. On Site Awareness",
+        "NIOSH Construction Robotics Safeguards"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_construction_e8d88a_robots_in_uns_8450a1",
+      "title": "How Demolition Robots Enter Buildings Too Dangerous for People",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Remote Demolition Robot Operational Workflow",
+        "Remote vs. Manual Demolition Safety",
+        "NIOSH Identified Robotic Hazards"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_construction_e8d88a_safer_roof_dr_e253cf",
+      "title": "Can Drones Make Roof Inspections Safer?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Drone Roof Inspection Workflow",
+        "Drone vs. Human Inspection Limits",
+        "Drone Detectable Roof Defects"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_farm_robots_w_8a51f4",
+      "title": "Can Farm Robots End the Most Dangerous Fieldwork?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "versus",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Hazards Suited for Farm Robotics",
+        "Factory vs. Field Robotics Environments",
+        "AI Enabled Precision Spraying Process"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_farm_robots_w_8a51f4_harsh_fields_53587c",
+      "title": "Why Safe Farm Robots Still Fail Outdoors",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Agricultural Robot Perception Pipeline",
+        "Factory vs. Farm Environments",
+        "Agricultural Robot Engineering Requirements"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_farm_robots_w_8a51f4_precision_spr_359e97",
+      "title": "Can Precision Spraying Keep Workers Away From Chemicals?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "timeline_snake"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Camera Guided Nozzle Control Workflow",
+        "Precision Spraying vs. Traditional Methods",
+        "Pesticide Exposure Risk Stages"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_farm_robots_w_8a51f4_robots_hottes_ccedf6",
+      "title": "Can Farm Robots Take the Hottest Shift?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "gem",
+        "quadrant"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Shifted Farm Work Schedule",
+        "High Risk Tasks for Automation",
+        "Robotic vs Human Heat Limits"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_sellafield_cl_115caf",
+      "title": "Can Robots Make Nuclear Clean Up Safer?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Sellafield Nuclear Decommissioning Workflow",
+        "Human vs. Robotic Roles at Sellafield",
+        "Specialized Robotics at Sellafield Site"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_sellafield_cl_115caf_sellafield_hu_cd9fbd",
+      "title": "Why Sellafield Cannot Fully Automate Clean Up",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Sellafield Teleoperation Communication Flow",
+        "Inspection vs. Manipulation Challenges",
+        "Environmental Obstacles at Sellafield"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_sellafield_cl_115caf_sellafield_re_81fa95",
+      "title": "How Robots Map Sellafield Before Clean Up",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Remote Mapping Workflow at Sellafield",
+        "Sensing Technologies for Nuclear Mapping",
+        "Uncertainties in Legacy Nuclear Facilities"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_sellafield_cl_115caf_sellafield_ro_e3a77e",
+      "title": "Why Robot Dogs Work Inside Sellafield",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Sellafield Robot Inspection Workflow",
+        "Robot vs Human Inspection Trade offs",
+        "Sellafield Robot Payload Capabilities"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+      "title": "Could Smarter AI Trigger an Intelligence Explosion?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Recursive Self Improvement Feedback Loop",
+        "Intelligence Explosion Take off Scenarios",
+        "Constraints on Intelligence Scaling"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_ai_research_t_2c968f",
+      "title": "Can AI accelerate its own progress?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AI Research Automation Pipeline Stages",
+        "Take off Speed Forecast Scenarios",
+        "AI Research Automation Constraints"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_ai_research_t_2c968f_ai_coding_acc_93c2c7",
+      "title": "Can AI Coding Speed Up Discovery?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "AI Coding Research Acceleration Cycle",
+        "Coding Assistant vs. Research Agent",
+        "AI Coding Capability Hierarchy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_ai_research_t_2c968f_ai_research_a_0dc91c",
+      "title": "Can AI Agents Build Better AI?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "AI Agent Research Workflow",
+        "Human vs AI Research Capabilities",
+        "Bottlenecks to AI Intelligence Explosion"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_ai_research_t_2c968f_automated_ai_18afaf",
+      "title": "Why Faster AI Experiments May Hit Limits",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AI Automated Discovery Workflow",
+        "Infrastructure Constraints on AI Bloom",
+        "Verification Bottlenecks in Science"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_explosion_evi_34d945",
+      "title": "What evidence supports an intelligence explosion?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tree_roots"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Path to AI Intelligence Explosion",
+        "Intelligence Explosion Debate Perspectives",
+        "Constraints on AI Progress Trends"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_explosion_evi_34d945_ai_agents_sel_aa349b",
+      "title": "Can AI Agents Improve AI Itself?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Ladder of AI Research Autonomy",
+        "Human Led vs. Self Improving AI Research",
+        "Obstacles to Recursive AI Improvement"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_explosion_evi_34d945_ai_benchmark_0ce3e1",
+      "title": "What AI Tests Miss About Intelligence",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of AI Evaluation Methods",
+        "Benchmark Scores vs Real Intelligence",
+        "Reliability Signals for AI Safety"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_explosion_evi_34d945_ai_scaling_li_c20deb",
+      "title": "Will AI Progress Keep Accelerating?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "hub"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Evolution of AI Scaling Drivers",
+        "Assisted vs Recursive Acceleration",
+        "Physical and Data Bottlenecks"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_superintellig_2863e8",
+      "title": "Who controls the superintelligence future?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "orbital_rings"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Pathways to AI Enabled Abundance",
+        "AI Distribution Outcome Scenarios",
+        "OECD and UN Governance Pillars"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_superintellig_2863e8_ai_access_pow_2df233",
+      "title": "Who Controls Access to Powerful AI?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Concentration Points of Frontier AI",
+        "Openness Versus Safety Dilemma",
+        "Public Infrastructure for AI Bloom"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_superintellig_2863e8_global_ai_coo_ac825d",
+      "title": "Can Countries Coordinate on AI Safety?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of AI Safety Governance",
+        "Tensions in AI Cooperation",
+        "Barriers to Global AI Governance"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_superintellig_2863e8_human_ai_over_10909b",
+      "title": "Can Humans Stay in Control of AI?",
+      "infographic_count": 3,
+      "templates": [
+        "lighthouse",
+        "fact_box_sidebar",
+        "hub"
+      ],
+      "roles": [
+        "other",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "EU AI Act Oversight Requirements",
+        "Ordinary vs Superintelligent Oversight",
+        "Mechanisms for AI Supervision"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_superintellig_993cd1",
+      "title": "How do we keep superintelligence safe?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "orbital_rings"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "AI Alignment Safety Pipeline",
+        "Reward Hacking vs. Intended Goals",
+        "AI Safety Research Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_superintellig_993cd1_ai_safety_eva_e39159",
+      "title": "How AI Safety Tests Find Hidden Risks",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AI Safety Evaluation Workflow",
+        "Traditional vs Safety Evaluations",
+        "Dangerous Capability Risk Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_superintellig_993cd1_claude_alignm_060a96",
+      "title": "Can AI Appear Safe While Adapting",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Claude 3 Opus Alignment Faking Experiment",
+        "Visible vs Hidden AI Alignment",
+        "Challenges in AI Safety Evaluation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_superintellig_993cd1_reward_hackin_a4c466",
+      "title": "When AI Achieves Goals The Wrong Way",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "versus",
+        "satellite_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "geography"
+      ],
+      "titles": [
+        "Mechanisms of Reward Hacking",
+        "Reward Hacking vs Goal Misgeneralization",
+        "Real World Examples of Specification Gaming"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    }
+  ]
+}

@@ -1,0 +1,2491 @@
+{
+  "generated_at_utc": "2026-08-05T04:28:13.428678Z",
+  "summary": {
+    "total_pages_with_permalink": 222,
+    "visible_pages": 171,
+    "hidden_pages": 51,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 1339,
+    "inline_internal_target_page_count": 171,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 171,
+    "visible_pages_without_inline_outbound_links": 0,
+    "average_inline_inbound_links_per_visible_page": 7.83,
+    "unresolved_inline_internal_target_count": 0,
+    "related_report_edge_count": 0,
+    "related_report_cross_root_edge_count": 0,
+    "related_report_target_page_count": 0,
+    "visible_pages_with_related_report_panel": 0,
+    "visible_pages_without_related_report_panel": 171,
+    "related_report_panel_coverage_percent": 0.0,
+    "average_related_report_links_per_visible_page": 0.0,
+    "unresolved_related_report_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "visible_without_inline_outbound_links": [],
+    "visible_without_related_report_panel": [
+      {
+        "basename": "AI_Bloom_Abun_98d3a6",
+        "title": "Could AI Help Humanity Truly Flourish?",
+        "permalink": "/ai-bloom-abundance-superintelligence/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "title": "AI Abundance",
+        "permalink": "/ai-abundance/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc",
+        "title": "Who Benefits",
+        "permalink": "/who-benefits/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc_ai_platform_s_d22d18",
+        "title": "Platform Power",
+        "permalink": "/platform-power/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc_global_ai_une_4e84d4",
+        "title": "Unequal Gains",
+        "permalink": "/unequal-gains/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc_scarce_assets_3f042b",
+        "title": "Scarce Assets",
+        "permalink": "/scarce-assets/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa",
+        "title": "Housing Limits",
+        "permalink": "/housing-limits/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa_ai_planning_p_31fe0b",
+        "title": "Planning Limits",
+        "permalink": "/planning-limits/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa_construction_4cabc6",
+        "title": "Robot Builders",
+        "permalink": "/robot-builders/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa_development_r_40ee3c",
+        "title": "Build Rights",
+        "permalink": "/build-rights/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_tutoring_r_e44cc1",
+        "title": "AI Tutoring",
+        "permalink": "/ai-tutoring/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_tutoring_r_e44cc1_ai_coaching_h_426998",
+        "title": "Tutor Coaching",
+        "permalink": "/tutor-coaching/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_tutoring_r_e44cc1_ai_illusion_o_7db1eb",
+        "title": "False Mastery",
+        "permalink": "/false-mastery/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_tutoring_r_e44cc1_effective_ai_8e3fc5",
+        "title": "Tutor Design",
+        "permalink": "/tutor-design/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_verificati_7be513",
+        "title": "Verification",
+        "permalink": "/verification/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_verificati_7be513_ai_reviewers_da5afd",
+        "title": "AI Reviewers",
+        "permalink": "/ai-reviewers/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_verificati_7be513_jagged_fronti_9c0fb9",
+        "title": "Hidden Errors",
+        "permalink": "/hidden-errors/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_verificati_7be513_legal_ai_liab_5f8b30",
+        "title": "Legal Liability",
+        "permalink": "/legal-liability/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "title": "Health",
+        "permalink": "/health/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_ai_mammograph_c19414",
+        "title": "AI Screening",
+        "permalink": "/ai-screening/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_ai_mammograph_c19414_ai_mammograph_1fc0e6",
+        "title": "Rollout Tests",
+        "permalink": "/rollout-tests/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_ai_mammograph_c19414_dcis_overdiag_c2f99f",
+        "title": "DCIS Risk",
+        "permalink": "/dcis-risk/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_ai_mammograph_c19414_interval_canc_9adf71",
+        "title": "Interval Cancers",
+        "permalink": "/interval-cancers/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_alphafold_dru_7f051a",
+        "title": "Alpha Fold",
+        "permalink": "/alpha-fold/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_alphafold_dru_7f051a_alphafold_con_418f00",
+        "title": "Confidence Scores",
+        "permalink": "/confidence-scores/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_alphafold_dru_7f051a_alphafold_exp_535d7c",
+        "title": "Limits",
+        "permalink": "/limits/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_alphafold_dru_7f051a_alphafold_exp_cc4145",
+        "title": "Faster Experiments",
+        "permalink": "/faster-experiments/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_autonomous_ey_52d243",
+        "title": "Eye Exams",
+        "permalink": "/eye-exams/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_autonomous_ey_52d243_autonomous_ey_a0564b",
+        "title": "Clinic Rollout",
+        "permalink": "/clinic-rollout/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_autonomous_ey_52d243_eye_screening_90ce1f",
+        "title": "Access Gaps",
+        "permalink": "/access-gaps/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_autonomous_ey_52d243_same_visit_ey_dd27fa",
+        "title": "Same Visit Tests",
+        "permalink": "/same-visit-tests/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_rentosertib_a_c3ad2c",
+        "title": "Rentosertib",
+        "permalink": "/rentosertib/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_rentosertib_a_c3ad2c_limits_of_ren_56c04d",
+        "title": "Limits of Proof",
+        "permalink": "/limits-of-proof/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_rentosertib_a_c3ad2c_rentosertib_p_03d7d7",
+        "title": "Trial Results",
+        "permalink": "/trial-results/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_rentosertib_a_c3ad2c_rentosertib_t_016cfd",
+        "title": "Target to Drug",
+        "permalink": "/target-to-drug/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "title": "Distribution",
+        "permalink": "/distribution/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b",
+        "title": "Scarce Essentials",
+        "permalink": "/scarce-essentials/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b_ai_asset_owne_54bc2f",
+        "title": "Ownership Question",
+        "permalink": "/ownership-question/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b_ai_energy_cap_9889e6",
+        "title": "Energy Bottlenecks",
+        "permalink": "/energy-bottlenecks/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b_ai_housing_sc_39267c",
+        "title": "Housing Limits",
+        "permalink": "/housing-limits-e60146/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_automation_la_71fa1a",
+        "title": "Labour Share",
+        "permalink": "/labour-share/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_automation_la_71fa1a_ai_task_incom_3f67bc",
+        "title": "Task Shift",
+        "permalink": "/task-shift/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_automation_la_71fa1a_ai_worker_exp_74f5e4",
+        "title": "Worker Exposure",
+        "permalink": "/worker-exposure/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_automation_la_71fa1a_worker_ai_own_5307e2",
+        "title": "Sharing AI Wealth",
+        "permalink": "/sharing-ai-wealth/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_cloud_ai_part_d3387a",
+        "title": "Cloud Control",
+        "permalink": "/cloud-control/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_cloud_ai_part_d3387a_amazon_anthro_19f39f",
+        "title": "Amazon Anthropic",
+        "permalink": "/amazon-anthropic/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_cloud_ai_part_d3387a_frontier_comp_c6e35a",
+        "title": "Compute Dependence",
+        "permalink": "/compute-dependence/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_cloud_ai_part_d3387a_microsoft_ope_657d40",
+        "title": "Microsoft Open AI",
+        "permalink": "/microsoft-open-ai/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_income_securi_866926",
+        "title": "Income Security",
+        "permalink": "/income-security/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_income_securi_866926_basic_income_e0e7e1",
+        "title": "Basic Income",
+        "permalink": "/basic-income/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_income_securi_866926_basic_service_ed3e18",
+        "title": "Basic Services",
+        "permalink": "/basic-services/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_income_securi_866926_four_day_work_c90efc",
+        "title": "Shorter Weeks",
+        "permalink": "/shorter-weeks/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "title": "Discovery",
+        "permalink": "/discovery/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_a_lab_autonom_e8b7aa",
+        "title": "A Lab",
+        "permalink": "/a-lab/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_a_lab_autonom_e8b7aa_alab_17_day_r_d63460",
+        "title": "17 Day Test",
+        "permalink": "/17-day-test/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_a_lab_autonom_e8b7aa_alab_human_sc_287d45",
+        "title": "Human Limits",
+        "permalink": "/human-limits/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_a_lab_autonom_e8b7aa_alab_learning_da2275",
+        "title": "Learning From Failure",
+        "permalink": "/learning-from-failure/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_active_learni_df913b",
+        "title": "Active Learning",
+        "permalink": "/active-learning/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_active_learni_df913b_active_learni_d18e80",
+        "title": "False Confidence",
+        "permalink": "/false-confidence/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_active_learni_df913b_closed_loop_a_cb6f25",
+        "title": "Closed Loop Labs",
+        "permalink": "/closed-loop-labs/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_active_learni_df913b_exploration_v_fd6947",
+        "title": "Explore or Exploit",
+        "permalink": "/explore-or-exploit/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_closed_loop_a_9e9475",
+        "title": "Closed Loops",
+        "permalink": "/closed-loops/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_closed_loop_a_9e9475_closed_loop_e_f86db2",
+        "title": "Error Loops",
+        "permalink": "/error-loops/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_closed_loop_a_9e9475_feedback_chan_52a5ea",
+        "title": "Feedback Loops",
+        "permalink": "/feedback-loops/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_closed_loop_a_9e9475_randomised_fe_cf2a99",
+        "title": "Feedback Evidence",
+        "permalink": "/feedback-evidence/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_self_driving_8cb29a",
+        "title": "Lab Access",
+        "permalink": "/lab-access/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_self_driving_8cb29a_cloud_lab_rem_d90c28",
+        "title": "Cloud Labs",
+        "permalink": "/cloud-labs/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_self_driving_8cb29a_lab_data_ip_c_481d41",
+        "title": "Data Ownership",
+        "permalink": "/data-ownership/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_self_driving_8cb29a_open_lab_inte_dfdae4",
+        "title": "Open Standards",
+        "permalink": "/open-standards/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "title": "Education",
+        "permalink": "/education/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_accessible_ai_34f623",
+        "title": "Accessible Tutors",
+        "permalink": "/accessible-tutors/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_accessible_ai_34f623_ai_dyslexia_r_f9bbb6",
+        "title": "Dyslexia Support",
+        "permalink": "/dyslexia-support/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_accessible_ai_34f623_low_resource_f3a405",
+        "title": "Language Gaps",
+        "permalink": "/language-gaps/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_accessible_ai_34f623_multimodal_ac_2a72eb",
+        "title": "Multimodal Access",
+        "permalink": "/multimodal-access/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_socratic_ai_t_ef430b",
+        "title": "Socratic Tutors",
+        "permalink": "/socratic-tutors/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_socratic_ai_t_ef430b_progressive_h_cc13ab",
+        "title": "Progressive Hints",
+        "permalink": "/progressive-hints/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_socratic_ai_t_ef430b_scaffolding_c_7be2a7",
+        "title": "Tutor Collapse",
+        "permalink": "/tutor-collapse/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_socratic_ai_t_ef430b_socratic_prog_e86693",
+        "title": "Programming Evidence",
+        "permalink": "/programming-evidence/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_trusted_publi_a07b34",
+        "title": "Trusted Access",
+        "permalink": "/trusted-access/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_trusted_publi_a07b34_library_ai_tu_b2498d",
+        "title": "Library Access",
+        "permalink": "/library-access/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_trusted_publi_a07b34_trusted_ai_tu_28a639",
+        "title": "Tutor Standards",
+        "permalink": "/tutor-standards/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_trusted_publi_a07b34_two_tier_ai_t_fd2493",
+        "title": "Two Tier Risk",
+        "permalink": "/two-tier-risk/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_tutor_vs_chat_fa73cd",
+        "title": "Tutor vs Chatbot",
+        "permalink": "/tutor-vs-chatbot/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_tutor_vs_chat_fa73cd_adaptive_misc_20d83a",
+        "title": "Adaptive Feedback",
+        "permalink": "/adaptive-feedback/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_tutor_vs_chat_fa73cd_harvard_ai_tu_f58bfe",
+        "title": "Harvard Trial",
+        "permalink": "/harvard-trial/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_tutor_vs_chat_fa73cd_judging_ai_tu_7d5ffd",
+        "title": "Tutor Quality",
+        "permalink": "/tutor-quality/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "title": "Alignment",
+        "permalink": "/alignment/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_bias_outco_fb9fb0",
+        "title": "AI Bias",
+        "permalink": "/ai-bias/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_bias_outco_fb9fb0_ai_hiring_bia_ed2db6",
+        "title": "Hiring Bias",
+        "permalink": "/hiring-bias/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_bias_outco_fb9fb0_gender_shades_0e56c0",
+        "title": "Face AI Gaps",
+        "permalink": "/face-ai-gaps/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_bias_outco_fb9fb0_healthcare_al_29d1da",
+        "title": "Health Algorithms",
+        "permalink": "/health-algorithms/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_persuasion_825096",
+        "title": "AI Persuasion",
+        "permalink": "/ai-persuasion/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_persuasion_825096_ai_persuasion_310d94",
+        "title": "Persuasion Evidence",
+        "permalink": "/persuasion-evidence/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_persuasion_825096_eu_ai_manipul_e1dc0e",
+        "title": "AI Rules",
+        "permalink": "/ai-rules/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_persuasion_825096_personalised_bda896",
+        "title": "Influence Loops",
+        "permalink": "/influence-loops/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_principles_da3181",
+        "title": "AI Principles",
+        "permalink": "/ai-principles/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_principles_da3181_ai_constituti_126a92",
+        "title": "Hidden Values",
+        "permalink": "/hidden-values/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_principles_da3181_global_ai_eth_6ef396",
+        "title": "Global Rules",
+        "permalink": "/global-rules/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_principles_da3181_medical_ai_tr_e4af82",
+        "title": "Medical Trade offs",
+        "permalink": "/medical-trade-offs/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_human_feedbac_319f2e",
+        "title": "Human Feedback",
+        "permalink": "/human-feedback/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_human_feedbac_319f2e_constitutiona_4a5a8a",
+        "title": "Constitutional AI",
+        "permalink": "/constitutional-ai/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_human_feedbac_319f2e_human_prefere_bd53c4",
+        "title": "Preference Gaps",
+        "permalink": "/preference-gaps/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_human_feedbac_319f2e_reward_hackin_922a3b",
+        "title": "Reward Hacking",
+        "permalink": "/reward-hacking/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+        "title": "Long Future",
+        "permalink": "/long-future/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_global_coo_296d09",
+        "title": "AI Coordination",
+        "permalink": "/ai-coordination/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_global_coo_296d09_ai_global_coo_5ae0dc",
+        "title": "AI Cooperation",
+        "permalink": "/ai-cooperation/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_global_coo_296d09_distributed_a_cfd1cc",
+        "title": "AI Access",
+        "permalink": "/ai-access/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_global_coo_296d09_frontier_ai_c_6a7f45",
+        "title": "Compute Controls",
+        "permalink": "/compute-controls/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_infrastruc_d01102",
+        "title": "Smart Infrastructure",
+        "permalink": "/smart-infrastructure/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_infrastruc_d01102_ai_digital_tw_dd3875",
+        "title": "Digital Twins",
+        "permalink": "/digital-twins/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_infrastruc_d01102_ai_flood_fore_1aa125",
+        "title": "Flood Forecasting",
+        "permalink": "/flood-forecasting/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_infrastruc_d01102_ai_grid_risk_752197",
+        "title": "Grid Resilience",
+        "permalink": "/grid-resilience/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_pandemic_d_9e1180",
+        "title": "Pandemic Defence",
+        "permalink": "/pandemic-defence/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_pandemic_d_9e1180_ai_biosecurit_1383fe",
+        "title": "Biosecurity",
+        "permalink": "/biosecurity/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_pandemic_d_9e1180_ai_outbreak_s_05120d",
+        "title": "Early Detection",
+        "permalink": "/early-detection/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_pandemic_d_9e1180_covid_ai_rese_eb8385",
+        "title": "AI Research",
+        "permalink": "/ai-research/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_space_sett_f56aaf",
+        "title": "Space Expansion",
+        "permalink": "/space-expansion/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_space_sett_f56aaf_ai_space_habi_30db1c",
+        "title": "AI Habitats",
+        "permalink": "/ai-habitats/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_space_sett_f56aaf_lunar_autonom_c84693",
+        "title": "Lunar Rovers",
+        "permalink": "/lunar-rovers/"
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_space_sett_f56aaf_lunar_resourc_fe7a31",
+        "title": "Moon Construction",
+        "permalink": "/moon-construction/"
+      }
+    ],
+    "top_inline_internal_targets": [
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_human_feedbac_319f2e",
+        "title": "Human Feedback",
+        "permalink": "/human-feedback/",
+        "inline_inbound_count": 142
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "title": "Discovery",
+        "permalink": "/discovery/",
+        "inline_inbound_count": 72
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "title": "Health",
+        "permalink": "/health/",
+        "inline_inbound_count": 62
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa_development_r_40ee3c",
+        "title": "Build Rights",
+        "permalink": "/build-rights/",
+        "inline_inbound_count": 58
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "title": "Education",
+        "permalink": "/education/",
+        "inline_inbound_count": 58
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_alphafold_dru_7f051a_alphafold_exp_535d7c",
+        "title": "Limits",
+        "permalink": "/limits/",
+        "inline_inbound_count": 50
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_automation_la_71fa1a",
+        "title": "Labour Share",
+        "permalink": "/labour-share/",
+        "inline_inbound_count": 50
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_tutoring_r_e44cc1_effective_ai_8e3fc5",
+        "title": "Tutor Design",
+        "permalink": "/tutor-design/",
+        "inline_inbound_count": 47
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_ai_research_t_2c968f_automated_ai_18afaf",
+        "title": "Auto Experiments",
+        "permalink": "/auto-experiments/",
+        "inline_inbound_count": 46
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "title": "Distribution",
+        "permalink": "/distribution/",
+        "inline_inbound_count": 37
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_materials_c8fe7c_materials_sca_371350",
+        "title": "Scale Up Failure",
+        "permalink": "/scale-up-failure/",
+        "inline_inbound_count": 37
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_bias_outco_fb9fb0_healthcare_al_29d1da",
+        "title": "Health Algorithms",
+        "permalink": "/health-algorithms/",
+        "inline_inbound_count": 35
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "title": "Robotics",
+        "permalink": "/robotics/",
+        "inline_inbound_count": 34
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_flexible_data_7d5d8d_data_centre_g_8229aa",
+        "title": "Grid Incentives",
+        "permalink": "/grid-incentives/",
+        "inline_inbound_count": 27
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_persuasion_825096_personalised_bda896",
+        "title": "Influence Loops",
+        "permalink": "/influence-loops/",
+        "inline_inbound_count": 26
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_global_coo_296d09_distributed_a_cfd1cc",
+        "title": "AI Access",
+        "permalink": "/ai-access/",
+        "inline_inbound_count": 26
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_accessible_ai_34f623",
+        "title": "Accessible Tutors",
+        "permalink": "/accessible-tutors/",
+        "inline_inbound_count": 22
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_global_coo_296d09_frontier_ai_c_6a7f45",
+        "title": "Compute Controls",
+        "permalink": "/compute-controls/",
+        "inline_inbound_count": 22
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_verificati_7be513",
+        "title": "Verification",
+        "permalink": "/verification/",
+        "inline_inbound_count": 21
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "title": "Alignment",
+        "permalink": "/alignment/",
+        "inline_inbound_count": 20
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_closed_loop_a_9e9475_randomised_fe_cf2a99",
+        "title": "Feedback Evidence",
+        "permalink": "/feedback-evidence/",
+        "inline_inbound_count": 19
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_active_learni_df913b",
+        "title": "Active Learning",
+        "permalink": "/active-learning/",
+        "inline_inbound_count": 16
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "title": "Superintelligence",
+        "permalink": "/superintelligence/",
+        "inline_inbound_count": 15
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_tutoring_r_e44cc1",
+        "title": "AI Tutoring",
+        "permalink": "/ai-tutoring/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_hidden_gri_ee0130_forecasting_r_8bafaa",
+        "title": "Forecast Gains",
+        "permalink": "/forecast-gains/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_socratic_ai_t_ef430b_scaffolding_c_7be2a7",
+        "title": "Tutor Collapse",
+        "permalink": "/tutor-collapse/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_active_learni_df913b_exploration_v_fd6947",
+        "title": "Explore or Exploit",
+        "permalink": "/explore-or-exploit/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_explosion_evi_34d945_ai_agents_sel_aa349b",
+        "title": "AI Agents",
+        "permalink": "/ai-agents/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_self_driving_8cb29a",
+        "title": "Lab Access",
+        "permalink": "/lab-access/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_superintellig_2863e8",
+        "title": "AI Governance",
+        "permalink": "/ai-governance/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_principles_da3181_medical_ai_tr_e4af82",
+        "title": "Medical Trade offs",
+        "permalink": "/medical-trade-offs/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_a_lab_autonom_e8b7aa",
+        "title": "A Lab",
+        "permalink": "/a-lab/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_ai_mammograph_c19414",
+        "title": "AI Screening",
+        "permalink": "/ai-screening/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_socratic_ai_t_ef430b_progressive_h_cc13ab",
+        "title": "Progressive Hints",
+        "permalink": "/progressive-hints/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_socratic_ai_t_ef430b",
+        "title": "Socratic Tutors",
+        "permalink": "/socratic-tutors/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_human_feedbac_319f2e_constitutiona_4a5a8a",
+        "title": "Constitutional AI",
+        "permalink": "/constitutional-ai/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_flexible_data_7d5d8d_ai_workload_f_00a14a",
+        "title": "Flexible Workloads",
+        "permalink": "/flexible-workloads/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_autonomous_ey_52d243_eye_screening_90ce1f",
+        "title": "Access Gaps",
+        "permalink": "/access-gaps/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+        "title": "Long Future",
+        "permalink": "/long-future/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_construction_e8d88a",
+        "title": "Work at Height",
+        "permalink": "/work-at-height/",
+        "inline_inbound_count": 5
+      }
+    ],
+    "top_related_report_targets": [],
+    "unresolved_inline_internal_targets": [],
+    "unresolved_related_report_targets": [],
+    "edge_samples": [
+      {
+        "from": "AI_Bloom_Abun_98d3a6",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6",
+        "to": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6",
+        "to": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6",
+        "to": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6",
+        "to": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6",
+        "to": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6",
+        "to": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6",
+        "to": "AI_Bloom_Abun_98d3a6_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6",
+        "to": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "to": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "to": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "to": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "to": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "to": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "to": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "to": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_tutoring_r_e44cc1",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_verificati_7be513",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "to": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "to": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "to": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "to": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "to": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "to": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "to": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_automation_la_71fa1a",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_cloud_ai_part_d3387a",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_income_securi_866926",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "to": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "to": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "to": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "to": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "to": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "to": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "to": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_ai_mammograph_c19414",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "to": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_alphafold_dru_7f051a",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "to": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_autonomous_ey_52d243",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "to": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "to": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_rentosertib_a_c3ad2c",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "to": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "to": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "to": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "to": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "to": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "to": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "to": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_a_lab_autonom_e8b7aa",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "to": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_active_learni_df913b",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "to": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_closed_loop_a_9e9475",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "to": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "to": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_self_driving_8cb29a",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "to": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "to": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "to": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "to": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "to": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "to": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "to": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_accessible_ai_34f623",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "to": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "to": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_socratic_ai_t_ef430b",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "to": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_trusted_publi_a07b34",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "to": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_tutor_vs_chat_fa73cd",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "to": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "to": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "to": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "to": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "to": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "to": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "to": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_bias_outco_fb9fb0",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "to": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_persuasion_825096",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "to": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_principles_da3181",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "to": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_human_feedbac_319f2e",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "to": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+        "to": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+        "to": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+        "to": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+        "to": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+        "to": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+        "to": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+        "to": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_global_coo_296d09",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+        "to": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_infrastruc_d01102",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+        "to": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_pandemic_d_9e1180",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+        "to": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_space_sett_f56aaf",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+        "to": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b",
+        "to": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b",
+        "to": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b",
+        "to": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b",
+        "to": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b",
+        "to": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b",
+        "to": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b",
+        "to": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_hidden_gri_ee0130",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b",
+        "to": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_local_grid_6d4932",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b",
+        "to": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_materials_c8fe7c",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b",
+        "to": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_flexible_data_7d5d8d",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b",
+        "to": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "to": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "to": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "to": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "to": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "to": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "to": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "to": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_autonomous_mi_f19d4e",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "to": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_construction_e8d88a",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "to": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_farm_robots_w_8a51f4",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "to": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "to": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_sellafield_cl_115caf",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "to": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "to": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "to": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "to": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "to": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "to": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "to": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_ai_research_t_2c968f",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_explosion_evi_34d945",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_superintellig_2863e8",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_superintellig_993cd1",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_tutoring_r_e44cc1",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_verificati_7be513",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc_ai_platform_s_d22d18",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc_global_ai_une_4e84d4",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc_scarce_assets_3f042b",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_automation_la_71fa1a",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_cloud_ai_part_d3387a",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_income_securi_866926",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b_ai_asset_owne_54bc2f",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b_ai_energy_cap_9889e6",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b_ai_housing_sc_39267c",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_tutoring_r_e44cc1",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_verificati_7be513",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa_ai_planning_p_31fe0b",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa_construction_4cabc6",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa_development_r_40ee3c",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "ancestor"
+      }
+    ],
+    "inline_edge_samples": [
+      {
+        "from": "AI_Bloom_Abun_98d3a6",
+        "to": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6",
+        "to": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_alphafold_dru_7f051a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6",
+        "to": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6",
+        "to": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6",
+        "to": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6",
+        "to": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "to": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa_development_r_40ee3c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_verificati_7be513",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "to": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc_scarce_assets_3f042b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_tutoring_r_e44cc1_effective_ai_8e3fc5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_ai_research_t_2c968f_automated_ai_18afaf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "to": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_flexible_data_7d5d8d_data_centre_g_8229aa",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_automation_la_71fa1a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "to": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_income_securi_866926_basic_income_e0e7e1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_income_securi_866926_basic_service_ed3e18",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "to": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "to": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_ai_mammograph_c19414_interval_canc_9adf71",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "to": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_autonomous_ey_52d243_eye_screening_90ce1f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "to": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "to": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_explosion_evi_34d945_ai_agents_sel_aa349b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_ai_research_t_2c968f_automated_ai_18afaf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "to": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_active_learni_df913b_exploration_v_fd6947",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "to": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_active_learni_df913b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "to": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "to": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_self_driving_8cb29a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "to": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_a_lab_autonom_e8b7aa",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "to": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_self_driving_8cb29a_open_lab_inte_dfdae4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "to": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_accessible_ai_34f623",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "to": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_active_learni_df913b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_tutoring_r_e44cc1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_ai_research_t_2c968f_automated_ai_18afaf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "to": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_global_coo_296d09_frontier_ai_c_6a7f45",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "to": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_human_feedbac_319f2e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "to": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_accessible_ai_34f623_multimodal_ac_2a72eb",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "to": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_socratic_ai_t_ef430b_scaffolding_c_7be2a7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "to": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_human_feedbac_319f2e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "to": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa_development_r_40ee3c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "to": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_human_feedbac_319f2e_constitutiona_4a5a8a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "to": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_persuasion_825096_personalised_bda896",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "to": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "to": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+        "to": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_human_feedbac_319f2e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+        "to": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+        "to": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_global_coo_296d09_frontier_ai_c_6a7f45",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+        "to": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_global_coo_296d09_distributed_a_cfd1cc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+        "to": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+        "to": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa_development_r_40ee3c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b",
+        "to": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_flexible_data_7d5d8d_data_centre_g_8229aa",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b",
+        "to": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_materials_c8fe7c_materials_sca_371350",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b",
+        "to": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b",
+        "to": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b",
+        "to": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "to": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_human_feedbac_319f2e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_automation_la_71fa1a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "to": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_construction_e8d88a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "to": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "to": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "to": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_human_feedbac_319f2e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "to": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa_development_r_40ee3c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_ai_research_t_2c968f_automated_ai_18afaf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "to": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_global_coo_296d09_frontier_ai_c_6a7f45",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "to": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_flexible_data_7d5d8d_data_centre_g_8229aa",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "to": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b",
+        "to": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc",
+        "to": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc",
+        "to": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_bias_outco_fb9fb0_healthcare_al_29d1da",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc",
+        "to": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_materials_c8fe7c_materials_sca_371350",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc",
+        "to": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_human_feedbac_319f2e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc_scarce_assets_3f042b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_abundance_733cfc",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_tutoring_r_e44cc1_effective_ai_8e3fc5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa_development_r_40ee3c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b",
+        "to": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_bias_outco_fb9fb0_healthcare_al_29d1da",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b",
+        "to": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_human_feedbac_319f2e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b",
+        "to": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_materials_c8fe7c_materials_sca_371350",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b",
+        "to": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_alphafold_dru_7f051a_alphafold_exp_535d7c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b",
+        "to": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_ai_abundance_63a10b",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_automation_la_71fa1a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa_development_r_40ee3c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa",
+        "to": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa",
+        "to": "AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_hidden_gri_ee0130_forecasting_r_8bafaa",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa",
+        "to": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_human_feedbac_319f2e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa",
+        "to": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_automation_la_71fa1a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa",
+        "to": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_alphafold_dru_7f051a_alphafold_exp_535d7c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa",
+        "to": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_tutoring_r_e44cc1",
+        "to": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_tutoring_r_e44cc1",
+        "to": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_persuasion_825096_personalised_bda896",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_tutoring_r_e44cc1",
+        "to": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_human_feedbac_319f2e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_tutoring_r_e44cc1",
+        "to": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_closed_loop_a_9e9475_randomised_fe_cf2a99",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_tutoring_r_e44cc1",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_tutoring_r_e44cc1_ai_coaching_h_426998",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_tutoring_r_e44cc1",
+        "to": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_socratic_ai_t_ef430b_scaffolding_c_7be2a7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_tutoring_r_e44cc1",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_tutoring_r_e44cc1_effective_ai_8e3fc5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_tutoring_r_e44cc1",
+        "to": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_alphafold_dru_7f051a_alphafold_exp_535d7c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_verificati_7be513",
+        "to": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_human_feedbac_319f2e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_verificati_7be513",
+        "to": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_alphafold_dru_7f051a_alphafold_exp_535d7c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_verificati_7be513",
+        "to": "AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_global_coo_296d09_frontier_ai_c_6a7f45",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_verificati_7be513",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_verificati_7be513_legal_ai_liab_5f8b30",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_verificati_7be513",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_ai_research_t_2c968f_automated_ai_18afaf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_verificati_7be513",
+        "to": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_persuasion_825096_personalised_bda896",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_verificati_7be513",
+        "to": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_verificati_7be513_ai_reviewers_da5afd",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_automation_la_71fa1a",
+        "to": "AI_Bloom_Abun_98d3a6_robotics_dang_4232ff",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_automation_la_71fa1a",
+        "to": "AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_human_feedbac_319f2e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_automation_la_71fa1a",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_ai_research_t_2c968f_automated_ai_18afaf",
+        "type": "inline_internal"
+      }
+    ],
+    "related_report_edge_samples": []
+  }
+}

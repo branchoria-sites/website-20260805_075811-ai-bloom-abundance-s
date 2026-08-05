@@ -1,0 +1,593 @@
+{
+  "version": 1,
+  "page_count": 12,
+  "total_page_seconds": 42.4837,
+  "average_page_seconds": 3.5403,
+  "phase_totals_seconds": {
+    "internal_links": 18.4049,
+    "content_assembly": 7.4382,
+    "youtube": 6.6603,
+    "media_svg": 4.5132,
+    "monetization": 4.0148,
+    "quality_write": 0.6698,
+    "preparation": 0.4277,
+    "content_cleanup_final": 0.3457,
+    "content_cleanup_initial": 0.0089
+  },
+  "slowest_pages": [
+    {
+      "base_name": "AI_Bloom_Abun_98d3a6",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 6.0711,
+      "phases": {
+        "preparation": 0.0185,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 1.7471,
+        "content_cleanup_final": 0.0597,
+        "media_svg": 0.2872,
+        "youtube": 2.1502,
+        "content_assembly": 0.7772,
+        "monetization": 0.9458,
+        "quality_write": 0.084
+      }
+    },
+    {
+      "base_name": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.9852,
+      "phases": {
+        "preparation": 0.0291,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 1.7478,
+        "content_cleanup_final": 0.0633,
+        "media_svg": 0.163,
+        "youtube": 2.1906,
+        "content_assembly": 0.7476,
+        "monetization": 0.9709,
+        "quality_write": 0.0717
+      }
+    },
+    {
+      "base_name": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.8118,
+      "phases": {
+        "preparation": 0.0184,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.6086,
+        "content_cleanup_final": 0.0241,
+        "media_svg": 0.4146,
+        "youtube": 2.2147,
+        "content_assembly": 0.5806,
+        "monetization": 0.9048,
+        "quality_write": 0.0453
+      }
+    },
+    {
+      "base_name": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_a_lab_autonom_e8b7aa_alab_human_sc_287d45",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 2.837,
+      "phases": {
+        "preparation": 0.0298,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.4554,
+        "content_cleanup_final": 0.0186,
+        "media_svg": 0.4222,
+        "youtube": 0.0107,
+        "content_assembly": 0.7216,
+        "monetization": 0.1224,
+        "quality_write": 0.0559
+      }
+    },
+    {
+      "base_name": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_rentosertib_a_c3ad2c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7909,
+      "phases": {
+        "preparation": 0.0725,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 1.524,
+        "content_cleanup_final": 0.0195,
+        "media_svg": 0.4051,
+        "youtube": 0.0102,
+        "content_assembly": 0.5792,
+        "monetization": 0.1371,
+        "quality_write": 0.0431
+      }
+    },
+    {
+      "base_name": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_ai_mammograph_c19414_dcis_overdiag_c2f99f",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7902,
+      "phases": {
+        "preparation": 0.0265,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5066,
+        "content_cleanup_final": 0.0288,
+        "media_svg": 0.4027,
+        "youtube": 0.0092,
+        "content_assembly": 0.6185,
+        "monetization": 0.1451,
+        "quality_write": 0.0524
+      }
+    },
+    {
+      "base_name": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_verificati_7be513_jagged_fronti_9c0fb9",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7712,
+      "phases": {
+        "preparation": 0.0314,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 1.4708,
+        "content_cleanup_final": 0.0235,
+        "media_svg": 0.4003,
+        "youtube": 0.015,
+        "content_assembly": 0.6314,
+        "monetization": 0.1511,
+        "quality_write": 0.0463
+      }
+    },
+    {
+      "base_name": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_trusted_publi_a07b34_trusted_ai_tu_28a639",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7131,
+      "phases": {
+        "preparation": 0.0332,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.4471,
+        "content_cleanup_final": 0.0155,
+        "media_svg": 0.4157,
+        "youtube": 0.0165,
+        "content_assembly": 0.6021,
+        "monetization": 0.1365,
+        "quality_write": 0.0462
+      }
+    },
+    {
+      "base_name": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_closed_loop_a_9e9475",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7007,
+      "phases": {
+        "preparation": 0.0395,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.5043,
+        "content_cleanup_final": 0.0187,
+        "media_svg": 0.3953,
+        "youtube": 0.0115,
+        "content_assembly": 0.5381,
+        "monetization": 0.1331,
+        "quality_write": 0.0594
+      }
+    },
+    {
+      "base_name": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_trusted_publi_a07b34",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6863,
+      "phases": {
+        "preparation": 0.0757,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.4725,
+        "content_cleanup_final": 0.0169,
+        "media_svg": 0.4001,
+        "youtube": 0.0101,
+        "content_assembly": 0.5376,
+        "monetization": 0.1156,
+        "quality_write": 0.057
+      }
+    },
+    {
+      "base_name": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_rentosertib_a_c3ad2c_limits_of_ren_56c04d",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6793,
+      "phases": {
+        "preparation": 0.027,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.4511,
+        "content_cleanup_final": 0.0159,
+        "media_svg": 0.3996,
+        "youtube": 0.011,
+        "content_assembly": 0.5719,
+        "monetization": 0.1417,
+        "quality_write": 0.0602
+      }
+    },
+    {
+      "base_name": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa_ai_planning_p_31fe0b",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6469,
+      "phases": {
+        "preparation": 0.0261,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.4696,
+        "content_cleanup_final": 0.0412,
+        "media_svg": 0.4074,
+        "youtube": 0.0106,
+        "content_assembly": 0.5324,
+        "monetization": 0.1107,
+        "quality_write": 0.0483
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "AI_Bloom_Abun_98d3a6",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 6.0711,
+      "phases": {
+        "preparation": 0.0185,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 1.7471,
+        "content_cleanup_final": 0.0597,
+        "media_svg": 0.2872,
+        "youtube": 2.1502,
+        "content_assembly": 0.7772,
+        "monetization": 0.9458,
+        "quality_write": 0.084
+      }
+    },
+    {
+      "base_name": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_rentosertib_a_c3ad2c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7909,
+      "phases": {
+        "preparation": 0.0725,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 1.524,
+        "content_cleanup_final": 0.0195,
+        "media_svg": 0.4051,
+        "youtube": 0.0102,
+        "content_assembly": 0.5792,
+        "monetization": 0.1371,
+        "quality_write": 0.0431
+      }
+    },
+    {
+      "base_name": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.9852,
+      "phases": {
+        "preparation": 0.0291,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 1.7478,
+        "content_cleanup_final": 0.0633,
+        "media_svg": 0.163,
+        "youtube": 2.1906,
+        "content_assembly": 0.7476,
+        "monetization": 0.9709,
+        "quality_write": 0.0717
+      }
+    },
+    {
+      "base_name": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_trusted_publi_a07b34",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6863,
+      "phases": {
+        "preparation": 0.0757,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.4725,
+        "content_cleanup_final": 0.0169,
+        "media_svg": 0.4001,
+        "youtube": 0.0101,
+        "content_assembly": 0.5376,
+        "monetization": 0.1156,
+        "quality_write": 0.057
+      }
+    },
+    {
+      "base_name": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_closed_loop_a_9e9475",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7007,
+      "phases": {
+        "preparation": 0.0395,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.5043,
+        "content_cleanup_final": 0.0187,
+        "media_svg": 0.3953,
+        "youtube": 0.0115,
+        "content_assembly": 0.5381,
+        "monetization": 0.1331,
+        "quality_write": 0.0594
+      }
+    },
+    {
+      "base_name": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.8118,
+      "phases": {
+        "preparation": 0.0184,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.6086,
+        "content_cleanup_final": 0.0241,
+        "media_svg": 0.4146,
+        "youtube": 2.2147,
+        "content_assembly": 0.5806,
+        "monetization": 0.9048,
+        "quality_write": 0.0453
+      }
+    },
+    {
+      "base_name": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa_ai_planning_p_31fe0b",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6469,
+      "phases": {
+        "preparation": 0.0261,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.4696,
+        "content_cleanup_final": 0.0412,
+        "media_svg": 0.4074,
+        "youtube": 0.0106,
+        "content_assembly": 0.5324,
+        "monetization": 0.1107,
+        "quality_write": 0.0483
+      }
+    },
+    {
+      "base_name": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_verificati_7be513_jagged_fronti_9c0fb9",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7712,
+      "phases": {
+        "preparation": 0.0314,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 1.4708,
+        "content_cleanup_final": 0.0235,
+        "media_svg": 0.4003,
+        "youtube": 0.015,
+        "content_assembly": 0.6314,
+        "monetization": 0.1511,
+        "quality_write": 0.0463
+      }
+    },
+    {
+      "base_name": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_ai_mammograph_c19414_dcis_overdiag_c2f99f",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7902,
+      "phases": {
+        "preparation": 0.0265,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5066,
+        "content_cleanup_final": 0.0288,
+        "media_svg": 0.4027,
+        "youtube": 0.0092,
+        "content_assembly": 0.6185,
+        "monetization": 0.1451,
+        "quality_write": 0.0524
+      }
+    },
+    {
+      "base_name": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_rentosertib_a_c3ad2c_limits_of_ren_56c04d",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6793,
+      "phases": {
+        "preparation": 0.027,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.4511,
+        "content_cleanup_final": 0.0159,
+        "media_svg": 0.3996,
+        "youtube": 0.011,
+        "content_assembly": 0.5719,
+        "monetization": 0.1417,
+        "quality_write": 0.0602
+      }
+    },
+    {
+      "base_name": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_trusted_publi_a07b34_trusted_ai_tu_28a639",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7131,
+      "phases": {
+        "preparation": 0.0332,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.4471,
+        "content_cleanup_final": 0.0155,
+        "media_svg": 0.4157,
+        "youtube": 0.0165,
+        "content_assembly": 0.6021,
+        "monetization": 0.1365,
+        "quality_write": 0.0462
+      }
+    },
+    {
+      "base_name": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_a_lab_autonom_e8b7aa_alab_human_sc_287d45",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 2.837,
+      "phases": {
+        "preparation": 0.0298,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.4554,
+        "content_cleanup_final": 0.0186,
+        "media_svg": 0.4222,
+        "youtube": 0.0107,
+        "content_assembly": 0.7216,
+        "monetization": 0.1224,
+        "quality_write": 0.0559
+      }
+    }
+  ],
+  "parallel": {
+    "enabled": true,
+    "mode": "process",
+    "worker_count": 3,
+    "workers_raw": "auto",
+    "max_workers": 3,
+    "progress_interval_seconds": 60.0,
+    "queued_rebuild_pages": 12,
+    "reused_pages": 159,
+    "rebuilt_pages": 12,
+    "error_pages": 0,
+    "page_work_wall_seconds": 41.403,
+    "rebuilt_pages_per_minute": 17.39,
+    "queued_rebuild_pages_per_minute": 17.39,
+    "apparent_page_work_speedup": 1.0261,
+    "youtube_cache_prepare": {
+      "entries": 39659,
+      "updated": true,
+      "elapsed_seconds": 3.4661
+    },
+    "process_worker_diagnostics": {
+      "completed_pages": 12,
+      "successful_pages": 12,
+      "failed_pages": 0,
+      "worker_summary": {
+        "6648": {
+          "pages": 5,
+          "successes": 5,
+          "failures": 0,
+          "total_worker_seconds": 17.3944,
+          "max_worker_seconds": 6.1178,
+          "last_base_name": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_a_lab_autonom_e8b7aa_alab_human_sc_287d45"
+        },
+        "25132": {
+          "pages": 4,
+          "successes": 4,
+          "failures": 0,
+          "total_worker_seconds": 14.1958,
+          "max_worker_seconds": 6.0317,
+          "last_base_name": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_rentosertib_a_c3ad2c_limits_of_ren_56c04d"
+        },
+        "8356": {
+          "pages": 3,
+          "successes": 3,
+          "failures": 0,
+          "total_worker_seconds": 11.4549,
+          "max_worker_seconds": 5.8628,
+          "last_base_name": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_trusted_publi_a07b34_trusted_ai_tu_28a639"
+        }
+      },
+      "slowest_worker_pages": [
+        {
+          "base_name": "AI_Bloom_Abun_98d3a6",
+          "level": 1,
+          "success": true,
+          "worker_pid": 6648,
+          "worker_duration_seconds": 6.1178,
+          "total_seconds": 6.0711,
+          "worker_started_at_utc": "2026-08-05T04:27:21.426226Z",
+          "worker_finished_at_utc": "2026-08-05T04:27:27.497351Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75",
+          "level": 2,
+          "success": true,
+          "worker_pid": 25132,
+          "worker_duration_seconds": 6.0317,
+          "total_seconds": 5.9852,
+          "worker_started_at_utc": "2026-08-05T04:27:24.352485Z",
+          "worker_finished_at_utc": "2026-08-05T04:27:30.337752Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_housing_ph_180caa",
+          "level": 3,
+          "success": true,
+          "worker_pid": 8356,
+          "worker_duration_seconds": 5.8628,
+          "total_seconds": 5.8118,
+          "worker_started_at_utc": "2026-08-05T04:27:27.299232Z",
+          "worker_finished_at_utc": "2026-08-05T04:27:33.111070Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_a_lab_autonom_e8b7aa_alab_human_sc_287d45",
+          "level": 4,
+          "success": true,
+          "worker_pid": 6648,
+          "worker_duration_seconds": 2.8783,
+          "total_seconds": 2.837,
+          "worker_started_at_utc": "2026-08-05T04:27:35.947995Z",
+          "worker_finished_at_utc": "2026-08-05T04:27:38.785036Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_ai_mammograph_c19414_dcis_overdiag_c2f99f",
+          "level": 4,
+          "success": true,
+          "worker_pid": 8356,
+          "worker_duration_seconds": 2.8366,
+          "total_seconds": 2.7902,
+          "worker_started_at_utc": "2026-08-05T04:27:33.163132Z",
+          "worker_finished_at_utc": "2026-08-05T04:27:35.953435Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_rentosertib_a_c3ad2c",
+          "level": 3,
+          "success": true,
+          "worker_pid": 6648,
+          "worker_duration_seconds": 2.8357,
+          "total_seconds": 2.7909,
+          "worker_started_at_utc": "2026-08-05T04:27:27.545344Z",
+          "worker_finished_at_utc": "2026-08-05T04:27:30.336340Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "AI_Bloom_Abun_98d3a6_ai_abundance_b26d93_ai_verificati_7be513_jagged_fronti_9c0fb9",
+          "level": 4,
+          "success": true,
+          "worker_pid": 6648,
+          "worker_duration_seconds": 2.8188,
+          "total_seconds": 2.7712,
+          "worker_started_at_utc": "2026-08-05T04:27:33.127467Z",
+          "worker_finished_at_utc": "2026-08-05T04:27:35.898719Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "AI_Bloom_Abun_98d3a6_ai_tutors_cog_0afb75_trusted_publi_a07b34_trusted_ai_tu_28a639",
+          "level": 4,
+          "success": true,
+          "worker_pid": 8356,
+          "worker_duration_seconds": 2.7555,
+          "total_seconds": 2.7131,
+          "worker_started_at_utc": "2026-08-05T04:27:36.001150Z",
+          "worker_finished_at_utc": "2026-08-05T04:27:38.714303Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_closed_loop_a_9e9475",
+          "level": 3,
+          "success": true,
+          "worker_pid": 6648,
+          "worker_duration_seconds": 2.7438,
+          "total_seconds": 2.7007,
+          "worker_started_at_utc": "2026-08-05T04:27:30.382159Z",
+          "worker_finished_at_utc": "2026-08-05T04:27:33.082915Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "AI_Bloom_Abun_98d3a6_ai_health_lon_d0d68e_rentosertib_a_c3ad2c_limits_of_ren_56c04d",
+          "level": 4,
+          "success": true,
+          "worker_pid": 25132,
+          "worker_duration_seconds": 2.7437,
+          "total_seconds": 2.6793,
+          "worker_started_at_utc": "2026-08-05T04:27:35.807846Z",
+          "worker_finished_at_utc": "2026-08-05T04:27:38.487225Z",
+          "result_merge_seconds": 0.0
+        }
+      ]
+    }
+  }
+}
