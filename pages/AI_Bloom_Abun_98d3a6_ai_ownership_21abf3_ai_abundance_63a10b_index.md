@@ -4,7 +4,7 @@ title_full: Scarce Essentials Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-bloom-abun-98d3a6-ai-ownership/
+permalink: /ai-bloom-abun-98d3a6-ai-ownership-63a10b/
 description: Focused pages that expand on Scarce Essentials.
 date: '2026'
 layout: default

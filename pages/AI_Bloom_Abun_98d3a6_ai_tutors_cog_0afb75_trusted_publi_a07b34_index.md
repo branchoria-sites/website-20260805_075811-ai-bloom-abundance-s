@@ -4,7 +4,7 @@ title_full: Trusted Access Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-bloom-abun-98d3a6-ai-tutors-cog/
+permalink: /ai-bloom-abun-98d3a6-ai-tutors-cog-a07b34/
 description: Focused pages that expand on Trusted Access.
 date: '2026'
 layout: default

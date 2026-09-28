@@ -4,7 +4,7 @@ title_full: Sellafield Robots Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-bloom-abun-98d3a6-robotics-dang/
+permalink: /ai-bloom-abun-98d3a6-robotics-dang-115caf/
 description: Focused pages that expand on Sellafield Robots.
 date: '2026'
 layout: default

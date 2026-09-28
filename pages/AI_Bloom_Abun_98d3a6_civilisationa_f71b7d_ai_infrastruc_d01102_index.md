@@ -4,7 +4,7 @@ title_full: Smart Infrastructure Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-bloom-abun-98d3a6-civilisationa/
+permalink: /ai-bloom-abun-98d3a6-civilisationa-d01102/
 description: Focused pages that expand on Smart Infrastructure.
 date: '2026'
 layout: default

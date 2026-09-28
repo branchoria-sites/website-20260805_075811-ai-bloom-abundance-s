@@ -4,7 +4,7 @@ title_full: Pandemic Defence Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-bloom-abun-98d3a6-civilisationa/
+permalink: /ai-bloom-abun-98d3a6-civilisationa-9e1180/
 description: Focused pages that expand on Pandemic Defence.
 date: '2026'
 layout: default

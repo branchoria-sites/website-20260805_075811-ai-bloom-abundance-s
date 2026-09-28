@@ -4,7 +4,7 @@ title_full: A Lab Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-bloom-abun-98d3a6-ai-scientific/
+permalink: /ai-bloom-abun-98d3a6-ai-scientific-e8b7aa/
 description: Focused pages that expand on A Lab.
 date: '2026'
 layout: default

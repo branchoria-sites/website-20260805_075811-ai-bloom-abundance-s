@@ -4,7 +4,7 @@ title_full: Materials Scale Up Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-bloom-abun-98d3a6-energy-materi/
+permalink: /ai-bloom-abun-98d3a6-energy-materi-c8fe7c/
 description: Focused pages that expand on Materials Scale Up.
 date: '2026'
 layout: default

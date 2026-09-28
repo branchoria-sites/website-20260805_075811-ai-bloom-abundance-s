@@ -4,7 +4,7 @@ title_full: Farm Robots Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-bloom-abun-98d3a6-robotics-dang/
+permalink: /ai-bloom-abun-98d3a6-robotics-dang-8a51f4/
 description: Focused pages that expand on Farm Robots.
 date: '2026'
 layout: default

@@ -4,7 +4,7 @@ title_full: Local Power Strain Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-bloom-abun-98d3a6-energy-materi/
+permalink: /ai-bloom-abun-98d3a6-energy-materi-6d4932/
 description: Focused pages that expand on Local Power Strain.
 date: '2026'
 layout: default

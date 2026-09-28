@@ -4,7 +4,7 @@ title_full: Closed Loops Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-bloom-abun-98d3a6-ai-scientific/
+permalink: /ai-bloom-abun-98d3a6-ai-scientific-9e9475/
 description: Focused pages that expand on Closed Loops.
 date: '2026'
 layout: default

@@ -4,7 +4,7 @@ title_full: Labour Share Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-bloom-abun-98d3a6-ai-ownership/
+permalink: /ai-bloom-abun-98d3a6-ai-ownership-71fa1a/
 description: Focused pages that expand on Labour Share.
 date: '2026'
 layout: default

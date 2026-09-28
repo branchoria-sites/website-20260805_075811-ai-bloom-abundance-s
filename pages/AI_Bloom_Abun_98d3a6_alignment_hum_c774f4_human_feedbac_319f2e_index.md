@@ -4,7 +4,7 @@ title_full: Human Feedback Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-bloom-abun-98d3a6-alignment-hum/
+permalink: /ai-bloom-abun-98d3a6-alignment-hum-319f2e/
 description: Focused pages that expand on Human Feedback.
 date: '2026'
 layout: default

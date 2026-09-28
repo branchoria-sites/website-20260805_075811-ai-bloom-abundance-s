@@ -4,7 +4,7 @@ title_full: Housing Limits Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-bloom-abun-98d3a6-ai-abundance/
+permalink: /ai-bloom-abun-98d3a6-ai-abundance-180caa/
 description: Focused pages that expand on Housing Limits.
 date: '2026'
 layout: default

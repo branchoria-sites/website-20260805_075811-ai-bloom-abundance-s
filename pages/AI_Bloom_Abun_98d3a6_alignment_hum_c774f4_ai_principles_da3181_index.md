@@ -4,7 +4,7 @@ title_full: AI Principles Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ai-bloom-abun-98d3a6-alignment-hum/
+permalink: /ai-bloom-abun-98d3a6-alignment-hum-da3181/
 description: Focused pages that expand on AI Principles.
 date: '2026'
 layout: default
