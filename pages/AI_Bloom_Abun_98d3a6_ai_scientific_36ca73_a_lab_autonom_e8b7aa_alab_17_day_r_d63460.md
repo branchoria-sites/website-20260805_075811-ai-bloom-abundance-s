@@ -861,7 +861,7 @@ The 17-day run therefore should not be understood as proof that AI has automated
 
 9.<a id="endnote-9"></a>
    Source: hharesearch.org  
-   Link:<a href="https://hharesearch.org/research/briefs/autonomous-[self-driving" target="_blank" rel="noopener noreferrer nofollow">https://hharesearch.org/research/briefs/autonomous-[self-driving</a>  
+   Link:<a href="https://hharesearch.org/research/briefs/https://hharesearch.org/research/briefs/autonomous-self-driving-laboratories-materials-discovery.html" target="_blank" rel="noopener noreferrer nofollow">https://hharesearch.org/research/briefs/https://hharesearch.org/research/briefs/autonomous-self-driving-laboratories-materials-discovery.html</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>FOUNDATIONAL RESEARCH Szymanski NJ, Rendy B, Fei Y, Kumar RE, He T, Milsted D, McDermott MJ, Gallant M, Cubuk ED, Merchant A, Kim H, Jain...</p></details>
 
 10.<a id="endnote-10"></a>
