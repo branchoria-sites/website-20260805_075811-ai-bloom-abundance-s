@@ -228,6 +228,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-01 11:34:54'
+last_modified_at: '2026-08-01 11:34:54'
 parent_title: Who Gets the Wealth of an Automated Economy? | AI Bloom Abundance Superintelligence and Humanity
 parent_permalink: /distribution/
 parent_nav_short_title: Distribution

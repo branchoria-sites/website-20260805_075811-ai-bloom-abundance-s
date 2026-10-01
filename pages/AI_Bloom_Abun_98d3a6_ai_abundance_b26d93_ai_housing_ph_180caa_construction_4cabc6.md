@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-31 20:36:59'
+last_modified_at: '2026-07-31 20:36:59'
 parent_title: Why Better AI Plans Will Not Make Homes Cheap | AI Abundance
 parent_permalink: /housing-limits/
 parent_nav_short_title: Housing Limits

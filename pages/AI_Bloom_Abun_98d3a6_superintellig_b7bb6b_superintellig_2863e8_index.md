@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ai-bloom-abun-98d3a6-superintellig-2863e8/
 description: Focused pages that expand on AI Governance.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_superintellig_2863e8
 parent_title: AI Governance

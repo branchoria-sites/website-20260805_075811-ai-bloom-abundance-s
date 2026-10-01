@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ai-bloom-abun-98d3a6-ai-scientific-9e9475/
 description: Focused pages that expand on Closed Loops.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_closed_loop_a_9e9475
 parent_title: Closed Loops | Discovery

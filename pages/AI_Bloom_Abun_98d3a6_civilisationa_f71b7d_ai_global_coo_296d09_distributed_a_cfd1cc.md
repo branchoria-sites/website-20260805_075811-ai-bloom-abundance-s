@@ -284,6 +284,7 @@ next_link:
   short_title: AI Cooperation
   heading_title: Can Nations Coordinate AI Safely?
 date: '2026-08-02 22:57:40 '
+last_modified_at: '2026-08-02 22:57:40 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_global_coo_296d09_distributed_a_cfd1cc-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_global_coo_296d09_distributed_a_cfd1cc-Illustration-1.webp

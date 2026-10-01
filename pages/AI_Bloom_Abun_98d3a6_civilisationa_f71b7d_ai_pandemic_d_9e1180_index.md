@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ai-bloom-abun-98d3a6-civilisationa-9e1180/
 description: Focused pages that expand on Pandemic Defence.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_pandemic_d_9e1180
 parent_title: Pandemic Defence | Long Future

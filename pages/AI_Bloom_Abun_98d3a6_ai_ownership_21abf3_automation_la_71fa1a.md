@@ -228,6 +228,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-01 11:11:11'
+last_modified_at: '2026-08-01 11:11:11'
 parent_title: Who Gets the Wealth of an Automated Economy? | AI Bloom
 parent_permalink: /distribution/
 parent_nav_short_title: Distribution

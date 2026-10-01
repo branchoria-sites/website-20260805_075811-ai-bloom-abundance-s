@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-31 21:31:15'
+last_modified_at: '2026-07-31 21:31:15'
 parent_title: Can AI Bring Specialist Screening to the Clinic? | Health
 parent_permalink: /eye-exams/
 parent_nav_short_title: Eye Exams

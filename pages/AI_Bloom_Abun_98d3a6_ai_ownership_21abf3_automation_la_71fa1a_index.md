@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ai-bloom-abun-98d3a6-ai-ownership-71fa1a/
 description: Focused pages that expand on Labour Share.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_automation_la_71fa1a
 parent_title: Labour Share | Distribution

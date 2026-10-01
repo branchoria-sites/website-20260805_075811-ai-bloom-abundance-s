@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-01 11:11:04'
+last_modified_at: '2026-08-01 11:11:04'
 parent_title: Which Construction Jobs Should Robots Do First? | Robotics
 parent_permalink: /work-at-height/
 parent_nav_short_title: Work at Height

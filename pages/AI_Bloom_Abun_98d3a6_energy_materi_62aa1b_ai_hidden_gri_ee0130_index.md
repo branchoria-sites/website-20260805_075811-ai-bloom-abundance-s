@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ai-bloom-abun-98d3a6-energy-materi-ee0130/
 description: Focused pages that expand on Smarter Grids.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_ai_hidden_gri_ee0130
 parent_title: Smarter Grids | Energy Limits

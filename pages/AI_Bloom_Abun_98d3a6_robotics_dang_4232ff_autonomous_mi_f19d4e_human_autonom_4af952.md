@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-01 10:44:31'
+last_modified_at: '2026-08-01 10:44:31'
 parent_title: Do Autonomous Mines Really Protect Workers? | Robotics
 parent_permalink: /mining-safety/
 parent_nav_short_title: Mining Safety

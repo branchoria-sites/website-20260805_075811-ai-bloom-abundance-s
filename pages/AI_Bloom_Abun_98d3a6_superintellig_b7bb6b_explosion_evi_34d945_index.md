@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ai-bloom-abun-98d3a6-superintellig-34d945/
 description: Focused pages that expand on Explosion Evidence.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_explosion_evi_34d945
 parent_title: Explosion Evidence | Superintelligence
