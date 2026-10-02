@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ai-bloom-abun-98d3a6-energy-materi-7d5d8d/
 description: Focused pages that expand on Flexible Compute.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: AI_Bloom_Abun_98d3a6_energy_materi_62aa1b_flexible_data_7d5d8d
 parent_title: Flexible Compute | Energy Limits

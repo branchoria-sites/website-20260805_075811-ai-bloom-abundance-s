@@ -228,6 +228,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-01 09:48:06'
+last_modified_at: '2026-08-01 09:48:06'
 parent_title: Could Everyone Have a World Class Personal Tutor? | AI Bloom
 parent_permalink: /education/
 parent_nav_short_title: Education

@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-01 09:48:06'
+last_modified_at: '2026-08-01 09:48:06'
 parent_title: Can A General Chatbot Really Replace A Designed AI Tutor? | Education
 parent_permalink: /tutor-vs-chatbot/
 parent_nav_short_title: Tutor vs Chatbot

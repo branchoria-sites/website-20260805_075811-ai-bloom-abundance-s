@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-01 10:16:58'
+last_modified_at: '2026-08-01 10:16:58'
 parent_title: When AI Growth Outruns the Local Grid | Energy Limits
 parent_permalink: /local-power-strain/
 parent_nav_short_title: Local Power Strain

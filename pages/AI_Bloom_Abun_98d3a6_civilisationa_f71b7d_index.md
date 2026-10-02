@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ai-bloom-abun-98d3a6-civilisationa/
 description: Focused pages that expand on Long Future.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: AI_Bloom_Abun_98d3a6_civilisationa_f71b7d
 parent_title: Long Future | AI Bloom Abundance Superintelligence and Humanity

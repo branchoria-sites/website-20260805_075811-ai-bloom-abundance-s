@@ -297,6 +297,7 @@ prev_link:
   short_title: Smart Infrastructure
   heading_title: Can AI help civilisation repair itself?
 date: '2026-08-02 22:55:48 '
+last_modified_at: '2026-08-02 22:55:48 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_space_sett_f56aaf-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_space_sett_f56aaf-Illustration-1.webp

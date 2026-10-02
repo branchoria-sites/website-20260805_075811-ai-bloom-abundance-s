@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ai-bloom-abun-98d3a6-superintellig/
 description: Focused pages that expand on Superintelligence.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: AI_Bloom_Abun_98d3a6_superintellig_b7bb6b
 parent_title: Superintelligence | AI Bloom Abundance Superintelligence and Humanity

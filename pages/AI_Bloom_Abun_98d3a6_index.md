@@ -8,6 +8,7 @@ permalink: /ai-bloom-abun-98d3a6-index/
 description: Focused pages that expand on AI Bloom Abundance Superintelligence and
   Humanity.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: AI_Bloom_Abun_98d3a6
 parent_title: AI Bloom Abundance Superintelligence and Humanity

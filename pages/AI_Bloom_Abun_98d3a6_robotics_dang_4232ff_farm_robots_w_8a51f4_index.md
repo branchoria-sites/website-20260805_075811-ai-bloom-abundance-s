@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ai-bloom-abun-98d3a6-robotics-dang-8a51f4/
 description: Focused pages that expand on Farm Robots.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_farm_robots_w_8a51f4
 parent_title: Farm Robots | Robotics

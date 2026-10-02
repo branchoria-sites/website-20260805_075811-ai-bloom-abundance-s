@@ -290,6 +290,7 @@ next_link:
   short_title: Moon Construction
   heading_title: Can moon dust become future homes?
 date: '2026-08-02 22:57:50 '
+last_modified_at: '2026-08-02 22:57:50 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_space_sett_f56aaf_lunar_autonom_c84693-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_space_sett_f56aaf_lunar_autonom_c84693-Illustration-1.webp

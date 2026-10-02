@@ -228,6 +228,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-01 09:52:48'
+last_modified_at: '2026-08-01 09:52:48'
 parent_title: Can AI Abundance Outrun Physical Resource Limits? | AI Bloom
 parent_permalink: /energy-limits/
 parent_nav_short_title: Energy Limits

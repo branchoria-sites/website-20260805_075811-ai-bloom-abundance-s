@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-31 20:37:01'
+last_modified_at: '2026-07-31 20:37:01'
 parent_title: Will Abundant AI Benefit Everyone or Mainly Owners? | AI Abundance
 parent_permalink: /who-benefits/
 parent_nav_short_title: Who Benefits
