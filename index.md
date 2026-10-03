@@ -3857,6 +3857,90 @@ site_image_description: A city beside green farmland and solar arrays, with robo
 </div>
 </section>
 
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="home-further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="home-further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books on AI, abundance, and the future of work - the themes these briefings explore development by development. Use these as a next step beyond the articles.</p>
+    </div>
+    <div class="fr-books-grid">
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Abundance+by+Peter+H.+Diamandis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abundance on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lCifxlN8ZIoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abundance" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Abundance+by+Peter+H.+Diamandis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abundance">Abundance</a>
+</h4>
+<p class="fr-book-author">By Peter H. Diamandis, Steven Kotler</p>
+        
+<p class="fr-book-desc">Providing abundance is humanity&#x27;s grandest challenge--this is a book about how we rise to meet it. Abundance for all is within mankind&#x27;s...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Abundance+by+Peter+H.+Diamandis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=AI+2041%3A+Ten+Visions+for+Our+Future+Kai+Fu+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI 2041: Ten Visions for Our Future on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=o79AEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for AI 2041: Ten Visions for Our Future" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=AI+2041%3A+Ten+Visions+for+Our+Future+Kai+Fu+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="AI 2041: Ten Visions for Our Future">AI 2041: Ten Visions for Our Future</a>
+</h4>
+<p class="fr-book-author">By Kai-Fu Lee, Chen Qiufan</p>
+        
+<p class="fr-book-desc">How will AI change our world within twenty years? A pioneering technologist and acclaimed writer team up for a “dazzling” (The New York T...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=AI+2041%3A+Ten+Visions+for+Our+Future+Kai+Fu+Lee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+World+Without+Work+by+Daniel+Susskind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A World Without Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ehafDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A World Without Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+World+Without+Work+by+Daniel+Susskind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A World Without Work">A World Without Work</a>
+</h4>
+<p class="fr-book-author">By Daniel Susskind</p>
+        
+<p class="fr-book-desc">NOMINATED FOR THE FT &amp; McKINSEY BUSINESS BOOK OF THE YEAR AWARDS 2020 &#x27;A path-breaking, thought-provoking and in-depth study of how new t...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+World+Without+Work+by+Daniel+Susskind&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Algorithms+to+Live+By+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Algorithms to Live By on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QYciswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Algorithms to Live By" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Algorithms+to+Live+By+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Algorithms to Live By">Algorithms to Live By</a>
+</h4>
+<p class="fr-book-author">By Brian Christian, Tom Griffiths</p>
+        
+<p class="fr-book-desc">A fascinating exploration of how computer algorithms can be applied to our everyday lives. In this dazzlingly interdisciplinary work, acc...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Algorithms+to+Live+By+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+    </div>
+    <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+  </div>
+</section>
+
 </div>
 </section>
 
