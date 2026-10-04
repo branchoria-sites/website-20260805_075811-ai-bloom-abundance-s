@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-bloom-abun-98d3a6-superintellig-2c968f/
 description: Focused pages that expand on Research Take off.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: AI_Bloom_Abun_98d3a6_superintellig_b7bb6b_ai_research_t_2c968f
 parent_title: Research Take off | Superintelligence

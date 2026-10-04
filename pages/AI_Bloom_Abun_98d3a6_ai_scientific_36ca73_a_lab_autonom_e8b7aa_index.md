@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-bloom-abun-98d3a6-ai-scientific-e8b7aa/
 description: Focused pages that expand on A Lab.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: AI_Bloom_Abun_98d3a6_ai_scientific_36ca73_a_lab_autonom_e8b7aa
 parent_title: A Lab | Discovery

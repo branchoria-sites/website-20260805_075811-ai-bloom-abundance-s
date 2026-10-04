@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-bloom-abun-98d3a6-robotics-dang-115caf/
 description: Focused pages that expand on Sellafield Robots.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_sellafield_cl_115caf
 parent_title: Sellafield Robots | Robotics

@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-bloom-abun-98d3a6-robotics-dang-f19d4e/
 description: Focused pages that expand on Mining Safety.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: AI_Bloom_Abun_98d3a6_robotics_dang_4232ff_autonomous_mi_f19d4e
 parent_title: Mining Safety | Robotics

@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-bloom-abun-98d3a6-alignment-hum-825096/
 description: Focused pages that expand on AI Persuasion.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: AI_Bloom_Abun_98d3a6_alignment_hum_c774f4_ai_persuasion_825096
 parent_title: AI Persuasion | Alignment
