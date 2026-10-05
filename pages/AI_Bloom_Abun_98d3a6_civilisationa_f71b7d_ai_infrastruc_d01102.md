@@ -228,6 +228,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-01 13:45:15'
+last_modified_at: '2026-08-01 13:45:15'
 parent_title: Could AI Make Civilisation Safer and Larger? | AI Bloom Abundance Superintelligence and Humanity
 parent_permalink: /long-future/
 parent_nav_short_title: Long Future

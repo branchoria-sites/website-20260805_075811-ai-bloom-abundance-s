@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-01 12:27:12'
+last_modified_at: '2026-08-01 12:27:12'
 parent_title: What evidence supports an intelligence explosion? | Superintelligence
 parent_permalink: /explosion-evidence/
 parent_nav_short_title: Explosion Evidence

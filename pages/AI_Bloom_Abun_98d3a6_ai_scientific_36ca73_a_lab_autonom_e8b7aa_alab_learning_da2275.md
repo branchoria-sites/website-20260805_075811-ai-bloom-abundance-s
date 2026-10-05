@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-31 22:19:05'
+last_modified_at: '2026-07-31 22:19:05'
 parent_title: Can a Robot Lab Really Discover New Materials? | Discovery
 parent_permalink: /a-lab/
 parent_nav_short_title: A Lab

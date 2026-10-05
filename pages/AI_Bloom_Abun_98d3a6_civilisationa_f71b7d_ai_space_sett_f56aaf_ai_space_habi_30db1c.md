@@ -284,6 +284,7 @@ next_link:
   short_title: Lunar Rovers
   heading_title: Can lunar robots build before humans arrive?
 date: '2026-08-02 22:57:49 '
+last_modified_at: '2026-08-02 22:57:49 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_space_sett_f56aaf_ai_space_habi_30db1c-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_f71b7d_ai_space_sett_f56aaf_ai_space_habi_30db1c-Illustration-1.webp

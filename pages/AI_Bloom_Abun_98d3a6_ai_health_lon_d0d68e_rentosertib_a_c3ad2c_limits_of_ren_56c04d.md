@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-31 21:03:38'
+last_modified_at: '2026-07-31 21:03:38'
 parent_title: Has an AI Designed Drug Passed the Real Test? | Health
 parent_permalink: /rentosertib/
 parent_nav_short_title: Rentosertib

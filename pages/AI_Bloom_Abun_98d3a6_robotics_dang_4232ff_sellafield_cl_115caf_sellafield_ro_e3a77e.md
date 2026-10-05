@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-01 10:44:28'
+last_modified_at: '2026-08-01 10:44:28'
 parent_title: Can Robots Make Nuclear Clean Up Safer? | Robotics
 parent_permalink: /sellafield-robots/
 parent_nav_short_title: Sellafield Robots

@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-01 13:45:22'
+last_modified_at: '2026-08-01 13:45:22'
 parent_title: Can AI coordinate humanity without control? | Long Future
 parent_permalink: /ai-coordination/
 parent_nav_short_title: AI Coordination
