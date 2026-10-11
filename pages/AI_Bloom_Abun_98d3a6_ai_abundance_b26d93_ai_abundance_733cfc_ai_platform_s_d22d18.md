@@ -338,7 +338,7 @@ The most important mechanism is not any single monopoly but several reinforcing 
 
 **Proprietary data and ecosystems.** Large technology firms often combine AI with search engines, productivity software, mobile operating systems, advertising platforms or online marketplaces. Existing customer relationships reduce marketing costs and make it easier to distribute new AI services. They also generate valuable behavioural data that can improve products over time.
 
-**Switching costs.** Once a business builds internal tools around one cloud provider's AI services, moving to another platform may require expensive engineering work, retraining staff and rebuilding software. Even if rival models become cheaper, customers may remain locked into existing ecosystems. The US Federal Trade Commission has highlighted contractual arrangements and technical dependencies that can increase switching costs in major AI partnerships.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-issues-staff-report-ai-partnerships-investments-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[ftc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
+**Switching costs.** Once a business builds internal tools around one cloud provider's AI services, moving to another platform may require expensive engineering work, retraining staff and rebuilding software. Even if rival models become cheaper, customers may remain locked into existing ecosystems. The US Federal Trade Commission has highlighted contractual arrangements and technical dependencies that can increase switching costs in major AI partnerships.<span class="citation-link-wrap">[ftc.gov]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
 
 Together these mechanisms mean that infrastructure owners may capture value not because they charge high prices for every AI response, but because they become indispensable intermediaries across thousands of AI-powered businesses.
 
@@ -370,7 +370,7 @@ The US Federal Trade Commission's study of partnerships involving Microsoft, Ope
 * preferential access to scarce computing resources;
 * contractual rights that may increase dependence on particular cloud providers;
 * potential sharing of commercially sensitive information;
-* stronger barriers for rival infrastructure providers attempting to compete.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-issues-staff-report-ai-partnerships-investments-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[ftc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
+* stronger barriers for rival infrastructure providers attempting to compete.<span class="citation-link-wrap">[ftc.gov]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
 
 </div>
 
@@ -411,7 +411,7 @@ The goal of competition policy is not necessarily to prevent firms from earning 
 
 Possible policy approaches include:
 
-* **Monitoring exclusive partnerships.** Competition authorities increasingly examine whether strategic investments create unnecessary lock-in or foreclose rivals from essential computing resources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-issues-staff-report-ai-partnerships-investments-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[ftc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
+* **Monitoring exclusive partnerships.** Competition authorities increasingly examine whether strategic investments create unnecessary lock-in or foreclose rivals from essential computing resources.<span class="citation-link-wrap">[ftc.gov]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
 * **Supporting interoperable standards.** Easier migration between cloud platforms lowers switching costs and increases competitive pressure.
 * **Expanding public compute.** Governments and research organisations can provide universities, startups and public-interest researchers with access to advanced computing infrastructure that would otherwise be unaffordable.
 * **Encouraging open models where appropriate.** Open-weight systems can broaden participation in AI [development]({{ 'build-rights/' | relative_url }}) while still allowing commercial competition around deployment, support and specialised services.
@@ -840,7 +840,7 @@ If, instead, competition, open technologies and [effective]({{ 'tutor-design/' |
 
 2.<a id="endnote-2"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-issues-staff-report-ai-partnerships-investments-study" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-issues-staff-report-ai-partnerships-investments-study</a>  
+   Link:https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-issues-staff-report-ai-partnerships-investments-study  
 
 3.<a id="endnote-3"></a>
    Source: ft.com  
@@ -862,7 +862,7 @@ If, instead, competition, open technologies and [effective]({{ 'tutor-design/' |
 
 6.<a id="endnote-6"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2025/01/behind-ftcs-6b-report-large-ai-partnerships-investments" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2025/01/behind-ftcs-6b-report-large-ai-partnerships-investments</a>  
+   Link:https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2025/01/behind-ftcs-6b-report-large-ai-partnerships-investments  
 
 7.<a id="endnote-7"></a>
    Source: oecd.org  
@@ -911,20 +911,20 @@ If, instead, competition, open technologies and [effective]({{ 'tutor-design/' |
 
 16.<a id="endnote-16"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/advice-guidance/competition-guidance/industry-guidance/competition-technology-marketplace" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/advice-guidance/competition-guidance/industry-guidance/competition-technology-marketplace</a>  
+   Link:https://www.ftc.gov/advice-guidance/competition-guidance/industry-guidance/competition-technology-marketplace  
 
 17.<a id="endnote-17"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/reports/ftc-staff-report-ai-partnerships-investments-6b-study" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/reports/ftc-staff-report-ai-partnerships-investments-6b-study</a>  
+   Link:https://www.ftc.gov/reports/ftc-staff-report-ai-partnerships-investments-6b-study  
 
 18.<a id="endnote-18"></a>
    Source: ftc.gov  
    Title: Office of Technology | Federal Trade Commission Displaying 1  
-   Link:<a href="https://www.ftc.gov/office-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/office-technology</a>  
+   Link:https://www.ftc.gov/office-technology  
 
 19.<a id="endnote-19"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/06/generative-ai-raises-competition-concerns?page=1" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/06/generative-ai-raises-competition-concerns?page=1</a>  
+   Link:https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/06/generative-ai-raises-competition-concerns?page=1  
 
 ### Additional References
 

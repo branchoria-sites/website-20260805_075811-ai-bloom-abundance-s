@@ -300,7 +300,7 @@ The Microsoft–OpenAI partnership became one of the clearest examples of how co
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_cloud_ai_part_d3387a_microsoft_ope_657d40-Illustration-1-dark.svg" | relative_url }}" alt="Microsoft Open AI illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_cloud_ai_part_d3387a_microsoft_ope_657d40-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_ownership_21abf3_cloud_ai_part_d3387a_microsoft_ope_657d40-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 
-This relationship matters for the wider question of AI-enabled [human]({{ 'human-feedback/' | relative_url }}) flourishing because advanced AI depends on resources that are difficult for most organisations to obtain: specialised chips, huge [data centres]({{ 'grid-incentives/' | relative_url }}), electricity, engineering expertise and long-term capital. If AI systems eventually accelerate science, improve medicine, reduce scarcity and expand human capabilities, the companies controlling these foundations may have significant influence over how quickly those benefits spread and who can access them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-issues-staff-report-ai-partnerships-investments-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[ftc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
+This relationship matters for the wider question of AI-enabled [human]({{ 'human-feedback/' | relative_url }}) flourishing because advanced AI depends on resources that are difficult for most organisations to obtain: specialised chips, huge [data centres]({{ 'grid-incentives/' | relative_url }}), electricity, engineering expertise and long-term capital. If AI systems eventually accelerate science, improve medicine, reduce scarcity and expand human capabilities, the companies controlling these foundations may have significant influence over how quickly those benefits spread and who can access them.<span class="citation-link-wrap">[ftc.gov]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
 
 
 
@@ -353,7 +353,7 @@ Cloud infrastructure providers can therefore influence AI [development]({{ 'buil
 * **[Distribution]({{ 'distribution/' | relative_url }}) channels:** cloud platforms provide the route through which enterprises and governments adopt AI tools.
 * **Technical integration:** close partnerships allow infrastructure providers to shape how models are deployed and secured.
 
-The US Federal Trade Commission examined partnerships between major cloud providers and AI developers, including Microsoft’s relationship with OpenAI. Its report highlighted concerns that these arrangements can involve investment rights, exclusivity provisions, access to sensitive information and increased switching costs for AI companies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-issues-staff-report-ai-partnerships-investments-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[ftc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
+The US Federal Trade Commission examined partnerships between major cloud providers and AI developers, including Microsoft’s relationship with OpenAI. Its report highlighted concerns that these arrangements can involve investment rights, exclusivity provisions, access to sensitive information and increased switching costs for AI companies.<span class="citation-link-wrap">[ftc.gov]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
 
 This does not mean that infrastructure control automatically leads to harmful concentration. Large partnerships can also accelerate innovation. Microsoft’s resources helped OpenAI move faster than a research organisation with limited access to computing capacity might have managed alone. The same infrastructure that creates concentration risks can also enable scientific progress, better AI services and wider deployment.
 
@@ -397,7 +397,7 @@ Critics worry that concentration at the infrastructure level could create a new 
 
 These concerns are especially important under an optimistic vision of AI’s future. A world where AI accelerates medical discovery, enables [personalised]({{ 'influence-loops/' | relative_url }}) education, improves energy systems and expands human creativity would require broad access, not merely technical breakthroughs inside a few corporations.
 
-The Microsoft–OpenAI case therefore represents both sides of the AI infrastructure debate. It shows how partnerships can unlock extraordinary capabilities by combining research talent with industrial resources. It also shows why governance matters: the path towards an AI-enabled human bloom depends not only on creating more powerful intelligence, but on building systems that allow the benefits of that intelligence to spread widely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-issues-staff-report-ai-partnerships-investments-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[ftc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
+The Microsoft–OpenAI case therefore represents both sides of the AI infrastructure debate. It shows how partnerships can unlock extraordinary capabilities by combining research talent with industrial resources. It also shows why governance matters: the path towards an AI-enabled human bloom depends not only on creating more powerful intelligence, but on building systems that allow the benefits of that intelligence to spread widely.<span class="citation-link-wrap">[ftc.gov]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
 
 
 
@@ -825,7 +825,7 @@ The partnership demonstrates both the promise and the challenge. Concentrated in
 
 3.<a id="endnote-3"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-issues-staff-report-ai-partnerships-investments-study" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-issues-staff-report-ai-partnerships-investments-study</a>  
+   Link:https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-issues-staff-report-ai-partnerships-investments-study  
 
 4.<a id="endnote-4"></a>
    Source: OpenAI  
@@ -938,7 +938,7 @@ The partnership demonstrates both the promise and the challenge. Concentrated in
 
 26.<a id="endnote-26"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2025/01/behind-ftcs-6b-report-large-ai-partnerships-investments" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2025/01/behind-ftcs-6b-report-large-ai-partnerships-investments</a>  
+   Link:https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2025/01/behind-ftcs-6b-report-large-ai-partnerships-investments  
 
 27.<a id="endnote-27"></a>
    Source: toolscopeai.com  

@@ -1266,7 +1266,7 @@ The central question is therefore not whether AI is “optimistic” or “pessi
 
 73.<a id="endnote-73"></a>
    Source: preview-nature.com  
-   Link:<a href="https://preview-www.nature.com/articles/s41563-025-02403-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://preview-www.nature.com/articles/s41563-025-02403-7.pdf</a>  
+   Link:https://preview-www.nature.com/articles/s41563-025-02403-7.pdf  
 
 74.<a id="endnote-74"></a>
    Source: internationalaisafetyreport.org  
