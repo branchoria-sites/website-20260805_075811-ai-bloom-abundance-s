@@ -1129,7 +1129,6 @@ An AI-enabled bloom would not be measured by the number of generated reports, de
 
 44.<a id="endnote-44"></a>
    Source: labordoc.ilo.org  
-   Link:https://labordoc.ilo.org/[discovery  
 
 45.<a id="endnote-45"></a>
    Source: ilo.org  
@@ -1211,7 +1210,6 @@ An AI-enabled bloom would not be measured by the number of generated reports, de
 
 63.<a id="endnote-63"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-issues-staff-report-ai-partnerships-investments-study  
 
 64.<a id="endnote-64"></a>
    Source: nber.org  
@@ -1219,16 +1217,13 @@ An AI-enabled bloom would not be measured by the number of generated reports, de
 
 65.<a id="endnote-65"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2025/01/behind-ftcs-6b-report-large-ai-partnerships-investments  
 
 66.<a id="endnote-66"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/legal-library/browse/joint-statement-competition-generative-ai-foundation-models-ai-products  
 
 67.<a id="endnote-67"></a>
    Source: ftc.gov  
    Title: Generative AI Raises Competition Concerns | Federal Trade Commission  
-   Link:https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/06/generative-ai-raises-competition-concerns  
 
 68.<a id="endnote-68"></a>
    Source: search.ftc.gov  
@@ -1250,7 +1245,6 @@ An AI-enabled bloom would not be measured by the number of generated reports, de
 
 72.<a id="endnote-72"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/reports/ftc-staff-report-ai-partnerships-investments-6b-study  
 
 73.<a id="endnote-73"></a>
    Source: ftc.gov  

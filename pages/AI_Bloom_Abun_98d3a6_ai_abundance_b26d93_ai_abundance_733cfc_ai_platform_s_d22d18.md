@@ -840,7 +840,6 @@ If, instead, competition, open technologies and [effective]({{ 'tutor-design/' |
 
 2.<a id="endnote-2"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-issues-staff-report-ai-partnerships-investments-study  
 
 3.<a id="endnote-3"></a>
    Source: ft.com  
@@ -862,7 +861,6 @@ If, instead, competition, open technologies and [effective]({{ 'tutor-design/' |
 
 6.<a id="endnote-6"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2025/01/behind-ftcs-6b-report-large-ai-partnerships-investments  
 
 7.<a id="endnote-7"></a>
    Source: oecd.org  
@@ -911,20 +909,16 @@ If, instead, competition, open technologies and [effective]({{ 'tutor-design/' |
 
 16.<a id="endnote-16"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/advice-guidance/competition-guidance/industry-guidance/competition-technology-marketplace  
 
 17.<a id="endnote-17"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/reports/ftc-staff-report-ai-partnerships-investments-6b-study  
 
 18.<a id="endnote-18"></a>
    Source: ftc.gov  
    Title: Office of Technology | Federal Trade Commission Displaying 1  
-   Link:https://www.ftc.gov/office-technology  
 
 19.<a id="endnote-19"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/06/generative-ai-raises-competition-concerns?page=1  
 
 ### Additional References
 

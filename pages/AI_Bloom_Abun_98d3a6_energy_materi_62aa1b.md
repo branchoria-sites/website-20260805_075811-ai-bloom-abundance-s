@@ -1253,7 +1253,6 @@ The strongest version of the AI-bloom case is therefore not that [superintellige
 
 80.<a id="endnote-80"></a>
    Source: preview-nature.com  
-   Link:https://preview-www.nature.com/articles/s41563-025-02403-7.pdf  
 
 81.<a id="endnote-81"></a>
    Source: iea.blob.core.windows.net  
