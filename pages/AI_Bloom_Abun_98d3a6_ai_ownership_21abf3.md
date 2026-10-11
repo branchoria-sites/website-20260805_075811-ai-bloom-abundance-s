@@ -467,7 +467,7 @@ Tax collection itself may also improve with AI. The OECD reports that most membe
 
 Redistribution becomes harder when the companies being taxed possess enough market and political power to shape the rules. Competition policy is therefore part of distribution policy.
 
-AI markets may naturally reward scale. Larger firms can afford more compute, attract scarce specialists, gather usage data and distribute services through existing platforms. Customers may find it costly to move models, data or applications between cloud providers. Partnerships can spread risk and accelerate development, but they may also give infrastructure incumbents privileged access to emerging competitors. Competition authorities in the UK, United States and European Union have consequently focused on cloud contracts, strategic investments, chips, data access and routes to market.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-issues-staff-report-ai-partnerships-investments-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[ftc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
+AI markets may naturally reward scale. Larger firms can afford more compute, attract scarce specialists, gather usage data and distribute services through existing platforms. Customers may find it costly to move models, data or applications between cloud providers. Partnerships can spread risk and accelerate development, but they may also give infrastructure incumbents privileged access to emerging competitors. Competition authorities in the UK, United States and European Union have consequently focused on cloud contracts, strategic investments, chips, data access and routes to market.<span class="citation-link-wrap">[ftc.gov]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
 
 Effective intervention does not necessarily mean breaking up every large AI company. It can include interoperability requirements, limits on restrictive cloud contracts, scrutiny of acquisitions and exclusive partnerships, access to essential infrastructure, transparent pricing and rules preventing a platform from favouring its own model unfairly. Public procurement can strengthen smaller suppliers by demanding portability and open standards rather than locking government into a single proprietary ecosystem.
 
@@ -935,7 +935,7 @@ The deeper principle is straightforward: people should benefit from advanced AI 
 
 14.<a id="endnote-14"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-issues-staff-report-ai-partnerships-investments-study" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-issues-staff-report-ai-partnerships-investments-study</a>  
+   Link:https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-issues-staff-report-ai-partnerships-investments-study  
 
 15.<a id="endnote-15"></a>
    Source: GOV.UK  
@@ -1035,7 +1035,7 @@ The deeper principle is straightforward: people should benefit from advanced AI 
 
 37.<a id="endnote-37"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2025/01/behind-ftcs-6b-report-large-ai-partnerships-investments" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2025/01/behind-ftcs-6b-report-large-ai-partnerships-investments</a>  
+   Link:https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2025/01/behind-ftcs-6b-report-large-ai-partnerships-investments  
 
 38.<a id="endnote-38"></a>
    Source: oecd.org  
@@ -1307,7 +1307,7 @@ The deeper principle is straightforward: people should benefit from advanced AI 
 
 98.<a id="endnote-98"></a>
    Source: labordoc.ilo.org  
-   Link:<a href="https://labordoc.ilo.org/[discovery" target="_blank" rel="noopener noreferrer nofollow">https://labordoc.ilo.org/[discovery</a>  
+   Link:https://labordoc.ilo.org/[discovery  
 
 99.<a id="endnote-99"></a>
    Source: ilo.org  
@@ -1349,7 +1349,7 @@ The deeper principle is straightforward: people should benefit from advanced AI 
 
 108.<a id="endnote-108"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/reports/ftc-staff-report-ai-partnerships-investments-6b-study" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/reports/ftc-staff-report-ai-partnerships-investments-6b-study</a>  
+   Link:https://www.ftc.gov/reports/ftc-staff-report-ai-partnerships-investments-6b-study  
 
 109.<a id="endnote-109"></a>
    Source: ftc.gov  

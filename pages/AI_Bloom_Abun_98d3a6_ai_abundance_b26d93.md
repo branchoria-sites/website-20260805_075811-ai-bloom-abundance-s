@@ -476,7 +476,7 @@ Prices do not simply reflect the amount of labour or material needed to produce 
 
 A digital service may cost very little to reproduce but remain expensive because one company controls the model, platform, data, distribution channel or required computing infrastructure. The history of software, pharmaceuticals and academic publishing shows that low copying costs do not automatically lead to low user prices.
 
-AI infrastructure already has characteristics that could support concentration. An OECD review found high barriers to entry and relatively few suppliers across important parts of the compute chain, including advanced chips, cloud services and data-centre infrastructure. It also highlighted vertical integration, cross-investments and demand that frequently exceeds supply.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[oecd.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">At its core are the chip designers and manufacturers, who produce the essential hardware powering AI data centres. These firms rely on sp...</span></span></span> A US Federal Trade Commission study of major cloud-provider partnerships with AI developers found equity, revenue-sharing, exclusivity and cloud-spending arrangements that may affect access to computing resources and increase switching costs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-issues-staff-report-ai-partnerships-investments-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
+AI infrastructure already has characteristics that could support concentration. An OECD review found high barriers to entry and relatively few suppliers across important parts of the compute chain, including advanced chips, cloud services and data-centre infrastructure. It also highlighted vertical integration, cross-investments and demand that frequently exceeds supply.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[oecd.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">At its core are the chip designers and manufacturers, who produce the essential hardware powering AI data centres. These firms rely on sp...</span></span></span> A US Federal Trade Commission study of major cloud-provider partnerships with AI developers found equity, revenue-sharing, exclusivity and cloud-spending arrangements that may affect access to computing resources and increase switching costs.<span class="citation-link-wrap">[Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Open source on ftc.gov.</span></span></span>
 
 This creates a distinction between **technical abundance** and **economic abundance**. A model may be capable of providing millions of inexpensive consultations, but the owner can still limit use, charge monopoly prices or reserve its strongest capabilities for favoured customers.
 
@@ -1129,7 +1129,7 @@ An AI-enabled bloom would not be measured by the number of generated reports, de
 
 44.<a id="endnote-44"></a>
    Source: labordoc.ilo.org  
-   Link:<a href="https://labordoc.ilo.org/[discovery" target="_blank" rel="noopener noreferrer nofollow">https://labordoc.ilo.org/[discovery</a>  
+   Link:https://labordoc.ilo.org/[discovery  
 
 45.<a id="endnote-45"></a>
    Source: ilo.org  
@@ -1211,7 +1211,7 @@ An AI-enabled bloom would not be measured by the number of generated reports, de
 
 63.<a id="endnote-63"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-issues-staff-report-ai-partnerships-investments-study" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-issues-staff-report-ai-partnerships-investments-study</a>  
+   Link:https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-issues-staff-report-ai-partnerships-investments-study  
 
 64.<a id="endnote-64"></a>
    Source: nber.org  
@@ -1219,16 +1219,16 @@ An AI-enabled bloom would not be measured by the number of generated reports, de
 
 65.<a id="endnote-65"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2025/01/behind-ftcs-6b-report-large-ai-partnerships-investments" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2025/01/behind-ftcs-6b-report-large-ai-partnerships-investments</a>  
+   Link:https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2025/01/behind-ftcs-6b-report-large-ai-partnerships-investments  
 
 66.<a id="endnote-66"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/legal-library/browse/joint-statement-competition-generative-ai-foundation-models-ai-products" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/legal-library/browse/joint-statement-competition-generative-ai-foundation-models-ai-products</a>  
+   Link:https://www.ftc.gov/legal-library/browse/joint-statement-competition-generative-ai-foundation-models-ai-products  
 
 67.<a id="endnote-67"></a>
    Source: ftc.gov  
    Title: Generative AI Raises Competition Concerns | Federal Trade Commission  
-   Link:<a href="https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/06/generative-ai-raises-competition-concerns" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/06/generative-ai-raises-competition-concerns</a>  
+   Link:https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/06/generative-ai-raises-competition-concerns  
 
 68.<a id="endnote-68"></a>
    Source: search.ftc.gov  
@@ -1250,7 +1250,7 @@ An AI-enabled bloom would not be measured by the number of generated reports, de
 
 72.<a id="endnote-72"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/reports/ftc-staff-report-ai-partnerships-investments-6b-study" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/reports/ftc-staff-report-ai-partnerships-investments-6b-study</a>  
+   Link:https://www.ftc.gov/reports/ftc-staff-report-ai-partnerships-investments-6b-study  
 
 73.<a id="endnote-73"></a>
    Source: ftc.gov  
