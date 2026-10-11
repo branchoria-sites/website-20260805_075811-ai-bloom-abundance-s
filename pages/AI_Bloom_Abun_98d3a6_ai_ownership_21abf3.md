@@ -935,7 +935,6 @@ The deeper principle is straightforward: people should benefit from advanced AI 
 
 14.<a id="endnote-14"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-issues-staff-report-ai-partnerships-investments-study  
 
 15.<a id="endnote-15"></a>
    Source: GOV.UK  
@@ -1035,7 +1034,6 @@ The deeper principle is straightforward: people should benefit from advanced AI 
 
 37.<a id="endnote-37"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2025/01/behind-ftcs-6b-report-large-ai-partnerships-investments  
 
 38.<a id="endnote-38"></a>
    Source: oecd.org  
@@ -1307,7 +1305,6 @@ The deeper principle is straightforward: people should benefit from advanced AI 
 
 98.<a id="endnote-98"></a>
    Source: labordoc.ilo.org  
-   Link:https://labordoc.ilo.org/[discovery  
 
 99.<a id="endnote-99"></a>
    Source: ilo.org  
@@ -1349,7 +1346,6 @@ The deeper principle is straightforward: people should benefit from advanced AI 
 
 108.<a id="endnote-108"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/reports/ftc-staff-report-ai-partnerships-investments-6b-study  
 
 109.<a id="endnote-109"></a>
    Source: ftc.gov  

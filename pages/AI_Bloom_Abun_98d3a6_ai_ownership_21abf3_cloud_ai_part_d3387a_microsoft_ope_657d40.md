@@ -825,7 +825,6 @@ The partnership demonstrates both the promise and the challenge. Concentrated in
 
 3.<a id="endnote-3"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-issues-staff-report-ai-partnerships-investments-study  
 
 4.<a id="endnote-4"></a>
    Source: OpenAI  
@@ -938,7 +937,6 @@ The partnership demonstrates both the promise and the challenge. Concentrated in
 
 26.<a id="endnote-26"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2025/01/behind-ftcs-6b-report-large-ai-partnerships-investments  
 
 27.<a id="endnote-27"></a>
    Source: toolscopeai.com  

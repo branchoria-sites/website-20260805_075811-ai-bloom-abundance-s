@@ -975,7 +975,6 @@ For the broader AI Bloom vision, this distinction is fundamental. Intelligence m
 16.<a id="endnote-16"></a>
    Source: oecd.ai  
    Title: Fostering a digital ecosystem for AI (OECD AI Principle)  
-   Link:https://oecd.ai/en/dashboards/[ai-principles  
 
 17.<a id="endnote-17"></a>
    Source: oecd.org  
@@ -1003,7 +1002,6 @@ For the broader AI Bloom vision, this distinction is fundamental. Intelligence m
 22.<a id="endnote-22"></a>
    Source: nobelprize.org  
    Title: Daron Acemoglu – Podcast  
-   Link:https://www.nobelprize.org/prizes/economic-sciences/2024/acemoglu/473848-daron-acemoglu-podcast/  
 
 23.<a id="endnote-23"></a>
    Source: nobelprize.org  

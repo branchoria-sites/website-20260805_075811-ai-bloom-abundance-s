@@ -976,7 +976,6 @@ The key question is therefore not simply “Will AI become powerful?” It is al
 
 25.<a id="endnote-25"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-issues-staff-report-ai-partnerships-investments-study  
 
 26.<a id="endnote-26"></a>
    Source: youtube.com  
